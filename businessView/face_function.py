@@ -66,6 +66,7 @@ class Face(HomeView):
             return False
         else:
             gender.click()
+
             return True
 
     def  get_gender_change(self):
