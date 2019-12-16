@@ -1,0 +1,51 @@
+from common.myunit import StartEnd
+from businessView.tarot_function import Tarot
+import pytest
+import logging
+import allure
+
+
+class Test_career_tarot(StartEnd):
+
+    @allure.feature('test_career_tarot_enter')
+    @pytest.mark.flaky(reruns=3, reruns_delay=2)
+    def test_career_tarot_enter(self):
+        logging.info('======test_career_tarot_enter start=====')
+        l = Tarot(self.driver)
+        assert l.career() == True
+
+    @allure.feature('test_career_tarot_get_four')
+    @pytest.mark.flaky(reruns=3, reruns_delay=2)
+    def test_career_tarot_get_four(self):
+        logging.info('======test_career_tarot_get_four start========')
+        l = Tarot(self.driver)
+        assert l.career() == True
+        assert l.get_career_four() == True
+
+    @allure.feature('test_career_tarot_quit_show')
+    @pytest.mark.flaky(reruns=3, reruns_delay=2)
+    def test_career_tarot_quit_show(self):
+        logging.info('======test_career_tarot_quit_show start=======')
+        l = Tarot(self.driver)
+        assert l.career() == True
+        assert l.career_tarot_quit_show() == True
+
+    @allure.feature('test_career_tarot_quit_yes')
+    @pytest.mark.flaky(reruns=3, reruns_delay=2)
+    def test_career_tarot_quit_yes(self):
+        logging.info('======test_career_tarot_quit_yes start=======')
+        l = Tarot(self.driver)
+        assert l.career() == True
+        assert l.career_tarot_quit_yes() == True
+
+    @allure.feature('test_career_tarot_quit_no')
+    @pytest.mark.flaky(reruns=3, reruns_delay=2)
+    def test_career_tarot_quit_no(self):
+        logging.info('=======test_career_tarot_quit_no start=======')
+        l = Tarot(self.driver)
+        assert l.career() == True
+        assert l.career_tarot_quit_no() == True
+
+
+if __name__ == '__main__':
+    pytest.main(['-s','test013_career_tarot.py'])

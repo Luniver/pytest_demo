@@ -1,0 +1,211 @@
+[ {
+  "buildOrder" : 20,
+  "reportUrl" : "http://172.16.4.100:8080/job/Palm_pytest/20/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 7,
+    "unknown" : 0,
+    "total" : 7
+  }
+}, {
+  "buildOrder" : 19,
+  "reportUrl" : "http://172.16.4.100:8080/job/Palm_pytest/19/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 7,
+    "unknown" : 0,
+    "total" : 7
+  }
+}, {
+  "buildOrder" : 18,
+  "reportUrl" : "http://172.16.4.100:8080/job/Palm_pytest/18/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 7,
+    "unknown" : 0,
+    "total" : 7
+  }
+}, {
+  "buildOrder" : 17,
+  "reportUrl" : "http://172.16.4.100:8080/job/Palm_pytest/17/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 1,
+    "unknown" : 0,
+    "total" : 1
+  }
+}, {
+  "buildOrder" : 16,
+  "reportUrl" : "http://172.16.4.100:8080/job/Palm_pytest/16/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 1,
+    "unknown" : 0,
+    "total" : 1
+  }
+}, {
+  "buildOrder" : 15,
+  "reportUrl" : "http://172.16.4.100:8080/job/Palm_pytest/15/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 1,
+    "unknown" : 0,
+    "total" : 1
+  }
+}, {
+  "buildOrder" : 14,
+  "reportUrl" : "http://172.16.4.100:8080/job/Palm_pytest/14/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 1,
+    "unknown" : 0,
+    "total" : 1
+  }
+}, {
+  "buildOrder" : 12,
+  "reportUrl" : "http://localhost:8080/job/Palm_pytest/12/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 1,
+    "unknown" : 0,
+    "total" : 1
+  }
+}, {
+  "buildOrder" : 11,
+  "reportUrl" : "http://localhost:8080/job/Palm_pytest/11/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 1,
+    "unknown" : 0,
+    "total" : 1
+  }
+}, {
+  "buildOrder" : 10,
+  "reportUrl" : "http://localhost:8080/job/Palm_pytest/10/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 1,
+    "unknown" : 0,
+    "total" : 1
+  }
+}, {
+  "buildOrder" : 9,
+  "reportUrl" : "http://localhost:8080/job/Palm_pytest/9/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 1,
+    "unknown" : 0,
+    "total" : 1
+  }
+}, {
+  "buildOrder" : 8,
+  "reportUrl" : "http://localhost:8080/job/Palm_pytest/8/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 1,
+    "unknown" : 0,
+    "total" : 1
+  }
+}, {
+  "buildOrder" : 7,
+  "reportUrl" : "http://localhost:8080/job/Palm_pytest/7/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 8,
+    "passed" : 49,
+    "unknown" : 0,
+    "total" : 57
+  }
+}, {
+  "buildOrder" : 6,
+  "reportUrl" : "http://localhost:8080/job/Palm_pytest/6/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 8,
+    "passed" : 49,
+    "unknown" : 0,
+    "total" : 57
+  }
+}, {
+  "buildOrder" : 5,
+  "reportUrl" : "http://localhost:8080/job/Palm_pytest/5/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 8,
+    "passed" : 49,
+    "unknown" : 0,
+    "total" : 57
+  }
+}, {
+  "buildOrder" : 4,
+  "reportUrl" : "http://localhost:8080/job/Palm_pytest/4/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 8,
+    "passed" : 49,
+    "unknown" : 0,
+    "total" : 57
+  }
+}, {
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 7,
+    "unknown" : 0,
+    "total" : 7
+  }
+}, {
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 7,
+    "unknown" : 0,
+    "total" : 7
+  }
+} ]

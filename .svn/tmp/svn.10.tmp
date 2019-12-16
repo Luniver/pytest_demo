@@ -1,0 +1,101 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "lichenyudeMacBook-Pro.local",
+    "children" : [ {
+      "name" : "7639-MainThread",
+      "children" : [ {
+        "name" : "test_palm_judge_enter",
+        "uid" : "99749de8d9767bc4",
+        "parentUid" : "9f9c8910639b6f08108ef5ee59ddc49e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1575022150797,
+          "stop" : 1575022174457,
+          "duration" : 23660
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_palm_judge_destinyline",
+        "uid" : "596f423a930d226",
+        "parentUid" : "9f9c8910639b6f08108ef5ee59ddc49e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1575022679549,
+          "stop" : 1575022733841,
+          "duration" : 54292
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_palm_judge_lifeline",
+        "uid" : "5535d8f9748ada21",
+        "parentUid" : "9f9c8910639b6f08108ef5ee59ddc49e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1575022214318,
+          "stop" : 1575022277911,
+          "duration" : 63593
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_palm_judge_heartline",
+        "uid" : "4bfd834dd4cbfd67",
+        "parentUid" : "9f9c8910639b6f08108ef5ee59ddc49e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1575022318839,
+          "stop" : 1575022368694,
+          "duration" : 49855
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_palm_judge_headline",
+        "uid" : "51e30139e65251c7",
+        "parentUid" : "9f9c8910639b6f08108ef5ee59ddc49e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1575022582001,
+          "stop" : 1575022639808,
+          "duration" : 57807
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_palm_judge_businessline",
+        "uid" : "1cb34f5b533f80f5",
+        "parentUid" : "9f9c8910639b6f08108ef5ee59ddc49e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1575022481192,
+          "stop" : 1575022541251,
+          "duration" : 60059
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9f9c8910639b6f08108ef5ee59ddc49e"
+    }, {
+      "name" : "7652-MainThread",
+      "children" : [ {
+        "name" : "test_home_enter",
+        "uid" : "1b4ca4119ae1067b",
+        "parentUid" : "7e0d637f90404f2ef2e7302344655d60",
+        "status" : "passed",
+        "time" : {
+          "start" : 1576481384287,
+          "stop" : 1576481402371,
+          "duration" : 18084
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7e0d637f90404f2ef2e7302344655d60"
+    } ],
+    "uid" : "289281ff379b83c490b55c1d6bdd3a90"
+  } ]
+}

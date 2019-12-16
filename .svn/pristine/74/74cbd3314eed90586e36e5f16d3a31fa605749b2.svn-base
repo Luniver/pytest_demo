@@ -1,0 +1,23 @@
+[
+  "test012_MePage_information_input.py::Test_information_input::test_all_information_input",
+  "test012_MePage_information_input.py::Test_information_input::test_no_name_Done_check",
+  "test012_MePage_information_input.py::Test_information_input::test_no_birthday_Done_check",
+  "test012_MePage_information_input.py::Test_information_input::test_no_sex_Done_check",
+  "test012_MePage_information_input.py::Test_information_input::test_no_information_Done_check",
+  "test013_MePage_information_language.py::Test_information_language::test_input_english",
+  "test013_MePage_information_language.py::Test_information_language::test_input_chinese",
+  "test013_MePage_information_language.py::Test_information_language::test_input_japanese",
+  "test013_MePage_information_language.py::Test_information_language::test_input_korean",
+  "test013_MePage_information_language.py::Test_information_language::test_input_Portuguese",
+  "test009_old_face_get_by_photo.py::Test_OldFaceGet::test_get_old_face_by_photo",
+  "test014_career_tarot.py::Test_career_tarot::test_career_tarot_enter",
+  "test014_career_tarot.py::Test_career_tarot::test_career_tarot_get_four",
+  "test014_career_tarot.py::Test_career_tarot::test_career_tarot_quit_show",
+  "test014_career_tarot.py::Test_career_tarot::test_career_tarot_quit_yes",
+  "test014_career_tarot.py::Test_career_tarot::test_career_tarot_quit_no",
+  "test015_search_love_tarot.py::Test_search_love_tarot::test_search_love_tarot_enter",
+  "test015_search_love_tarot.py::Test_search_love_tarot::test_search_love_get_five",
+  "test015_search_love_tarot.py::Test_search_love_tarot::test_search_love_quit_show",
+  "test015_search_love_tarot.py::Test_search_love_tarot::test_search_love_quit_yes",
+  "test015_search_love_tarot.py::Test_search_love_tarot::test_search_love_quit_no"
+]

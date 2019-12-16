@@ -1,0 +1,130 @@
+{
+  "uid" : "4bfd834dd4cbfd67",
+  "name" : "test_palm_judge_heartline",
+  "fullName" : "test_case.test002_palm_judge.Test_Palm_judge#test_palm_judge_heartline",
+  "historyId" : "4f48f9682d35cdf4335161b3a8aa5217",
+  "time" : {
+    "start" : 1575022318839,
+    "stop" : 1575022368694,
+    "duration" : 49855
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "dd28ff3e9f2b6959",
+      "name" : "log",
+      "source" : "dd28ff3e9f2b6959.txt",
+      "type" : "text/plain",
+      "size" : 1067
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "test_palm_judge_heartline"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_case"
+  }, {
+    "name" : "suite",
+    "value" : "test002_palm_judge"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_Palm_judge"
+  }, {
+    "name" : "host",
+    "value" : "lichenyudeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "7639-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test002_palm_judge"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 11,
+        "unknown" : 0,
+        "total" : 11
+      },
+      "items" : [ {
+        "uid" : "96b3fd91be310ccf",
+        "reportUrl" : "http://172.16.4.100:8080/job/Palm_pytest/21/allure/#testresult/96b3fd91be310ccf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1575022318839,
+          "stop" : 1575022368694,
+          "duration" : 49855
+        }
+      }, {
+        "uid" : "3043d0653765eb70",
+        "reportUrl" : "http://172.16.4.100:8080/job/Palm_pytest/20/allure/#testresult/3043d0653765eb70",
+        "status" : "passed",
+        "time" : {
+          "start" : 1575022318839,
+          "stop" : 1575022368694,
+          "duration" : 49855
+        }
+      }, {
+        "uid" : "99b5eb3c003a1ec9",
+        "reportUrl" : "http://172.16.4.100:8080/job/Palm_pytest/19/allure/#testresult/99b5eb3c003a1ec9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1575022318839,
+          "stop" : 1575022368694,
+          "duration" : 49855
+        }
+      }, {
+        "uid" : "cf6ce8c4875b069b",
+        "reportUrl" : "http://172.16.4.100:8080/job/Palm_pytest/18/allure/#testresult/cf6ce8c4875b069b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1575022318839,
+          "stop" : 1575022368694,
+          "duration" : 49855
+        }
+      }, {
+        "uid" : "18f91806c5f4a5fe",
+        "reportUrl" : "http://localhost:8080/job/Palm_pytest/7/allure/#testresult/18f91806c5f4a5fe",
+        "status" : "passed",
+        "time" : {
+          "start" : 1574994799654,
+          "stop" : 1574994854469,
+          "duration" : 54815
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "4bfd834dd4cbfd67.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,101 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "lichenyudeMacBook-Pro.local",
+    "children" : [ {
+      "name" : "7639-MainThread",
+      "children" : [ {
+        "name" : "test_palm_judge_heartline",
+        "uid" : "38d9f8f4a9425318",
+        "parentUid" : "9f9c8910639b6f08108ef5ee59ddc49e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1575022318839,
+          "stop" : 1575022368694,
+          "duration" : 49855
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_palm_judge_headline",
+        "uid" : "445d1f032b5aab7d",
+        "parentUid" : "9f9c8910639b6f08108ef5ee59ddc49e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1575022582001,
+          "stop" : 1575022639808,
+          "duration" : 57807
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_palm_judge_lifeline",
+        "uid" : "28518ef5e9316e25",
+        "parentUid" : "9f9c8910639b6f08108ef5ee59ddc49e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1575022214318,
+          "stop" : 1575022277911,
+          "duration" : 63593
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_palm_judge_destinyline",
+        "uid" : "e8bb6d2ca2312424",
+        "parentUid" : "9f9c8910639b6f08108ef5ee59ddc49e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1575022679549,
+          "stop" : 1575022733841,
+          "duration" : 54292
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_palm_judge_enter",
+        "uid" : "d00905d5166e396a",
+        "parentUid" : "9f9c8910639b6f08108ef5ee59ddc49e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1575022150797,
+          "stop" : 1575022174457,
+          "duration" : 23660
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_palm_judge_businessline",
+        "uid" : "266a1289d455c7f1",
+        "parentUid" : "9f9c8910639b6f08108ef5ee59ddc49e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1575022481192,
+          "stop" : 1575022541251,
+          "duration" : 60059
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9f9c8910639b6f08108ef5ee59ddc49e"
+    }, {
+      "name" : "8033-MainThread",
+      "children" : [ {
+        "name" : "test_home_enter",
+        "uid" : "1ae1bd6ee9bbeae7",
+        "parentUid" : "d9e9789c3343e0c5d5199603437a9222",
+        "status" : "passed",
+        "time" : {
+          "start" : 1576482273044,
+          "stop" : 1576482291156,
+          "duration" : 18112
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d9e9789c3343e0c5d5199603437a9222"
+    } ],
+    "uid" : "289281ff379b83c490b55c1d6bdd3a90"
+  } ]
+}

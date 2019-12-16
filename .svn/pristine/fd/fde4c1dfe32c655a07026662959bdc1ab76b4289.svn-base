@@ -1,0 +1,71 @@
+[ {
+  "uid" : "60eacda950e4c710",
+  "name" : "test_palm_judge_destinyline",
+  "time" : {
+    "start" : 1575022679549,
+    "stop" : 1575022733841,
+    "duration" : 54292
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "514bf54dfc1a6a63",
+  "name" : "test_home_enter",
+  "time" : {
+    "start" : 1575028902937,
+    "stop" : 1575028926837,
+    "duration" : 23900
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b32e5bbb7a68e499",
+  "name" : "test_palm_judge_enter",
+  "time" : {
+    "start" : 1575022150797,
+    "stop" : 1575022174457,
+    "duration" : 23660
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "da483f1999819cb0",
+  "name" : "test_palm_judge_businessline",
+  "time" : {
+    "start" : 1575022481192,
+    "stop" : 1575022541251,
+    "duration" : 60059
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3fd6f0a51fce4af2",
+  "name" : "test_palm_judge_lifeline",
+  "time" : {
+    "start" : 1575022214318,
+    "stop" : 1575022277911,
+    "duration" : 63593
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3043d0653765eb70",
+  "name" : "test_palm_judge_heartline",
+  "time" : {
+    "start" : 1575022318839,
+    "stop" : 1575022368694,
+    "duration" : 49855
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dc9b8ce0524729e2",
+  "name" : "test_palm_judge_headline",
+  "time" : {
+    "start" : 1575022582001,
+    "stop" : 1575022639808,
+    "duration" : 57807
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

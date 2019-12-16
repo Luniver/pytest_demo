@@ -1,0 +1,117 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "test_palm_judge_enter",
+    "children" : [ {
+      "name" : "test_palm_judge_enter",
+      "uid" : "b32e5bbb7a68e499",
+      "parentUid" : "fa259f14ae2f0cabd8a9a874f013dfe2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1575022150797,
+        "stop" : 1575022174457,
+        "duration" : 23660
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "fa259f14ae2f0cabd8a9a874f013dfe2"
+  }, {
+    "name" : "test_palm_judge_lifeline",
+    "children" : [ {
+      "name" : "test_palm_judge_lifeline",
+      "uid" : "3fd6f0a51fce4af2",
+      "parentUid" : "4caf800eecfa079ea78d9593fddbb5dc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1575022214318,
+        "stop" : 1575022277911,
+        "duration" : 63593
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "4caf800eecfa079ea78d9593fddbb5dc"
+  }, {
+    "name" : "test_palm_judge_heartline",
+    "children" : [ {
+      "name" : "test_palm_judge_heartline",
+      "uid" : "3043d0653765eb70",
+      "parentUid" : "ca7c786674c34f4ae557cc5ab3b5a263",
+      "status" : "passed",
+      "time" : {
+        "start" : 1575022318839,
+        "stop" : 1575022368694,
+        "duration" : 49855
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "ca7c786674c34f4ae557cc5ab3b5a263"
+  }, {
+    "name" : "test_palm_judge_businessline",
+    "children" : [ {
+      "name" : "test_palm_judge_businessline",
+      "uid" : "da483f1999819cb0",
+      "parentUid" : "46397ef37b41b419b755ee7c56b50474",
+      "status" : "passed",
+      "time" : {
+        "start" : 1575022481192,
+        "stop" : 1575022541251,
+        "duration" : 60059
+      },
+      "flaky" : true,
+      "parameters" : [ ]
+    } ],
+    "uid" : "46397ef37b41b419b755ee7c56b50474"
+  }, {
+    "name" : "test_palm_judge_headline",
+    "children" : [ {
+      "name" : "test_palm_judge_headline",
+      "uid" : "dc9b8ce0524729e2",
+      "parentUid" : "95f81faa21adb7d3bc3794eaeb06be43",
+      "status" : "passed",
+      "time" : {
+        "start" : 1575022582001,
+        "stop" : 1575022639808,
+        "duration" : 57807
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "95f81faa21adb7d3bc3794eaeb06be43"
+  }, {
+    "name" : "test_palm_judge_destinyline",
+    "children" : [ {
+      "name" : "test_palm_judge_destinyline",
+      "uid" : "60eacda950e4c710",
+      "parentUid" : "3dfe78b8bf9450f75d1874aa2064add1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1575022679549,
+        "stop" : 1575022733841,
+        "duration" : 54292
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "3dfe78b8bf9450f75d1874aa2064add1"
+  }, {
+    "name" : "test_home_enter",
+    "children" : [ {
+      "name" : "test_home_enter",
+      "uid" : "514bf54dfc1a6a63",
+      "parentUid" : "fb4b6884c6cf7538ba5efddb01558626",
+      "status" : "passed",
+      "time" : {
+        "start" : 1575028902937,
+        "stop" : 1575028926837,
+        "duration" : 23900
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "fb4b6884c6cf7538ba5efddb01558626"
+  } ]
+}

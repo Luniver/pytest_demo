@@ -1,0 +1,10 @@
+[ {
+  "name" : "Jenkins",
+  "type" : "jenkins",
+  "url" : "http://172.16.4.100:8080/",
+  "buildOrder" : 22,
+  "buildName" : "Palm_pytest #22",
+  "buildUrl" : "http://172.16.4.100:8080/job/Palm_pytest/22/",
+  "reportName" : "AllureReport",
+  "reportUrl" : "http://172.16.4.100:8080/job/Palm_pytest/22/allure"
+} ]

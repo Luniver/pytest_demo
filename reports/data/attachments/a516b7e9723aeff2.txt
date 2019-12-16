@@ -1,0 +1,17 @@
+INFO     root:myunit.py:7 ======setUp======
+INFO     root:desired_caps.py:32 start app...
+INFO     root:test002_palm_judge.py:27 ==test_palm_judge_heartline start ==
+INFO     root:homeview.py:48 =======APP enter======
+INFO     root:common_fun.py:234 ============close first subscribe page============
+INFO     root:homeview.py:51 =====switch_palm======
+INFO     root:common_fun.py:162 get palm_home screenshot
+INFO     root:palm_function.py:77 ========select palm judgement=======
+INFO     root:palm_function.py:84 =========enter palm judge function=========
+INFO     root:palm_function.py:136 ========choose heartline=======
+INFO     root:common_fun.py:162 get heartlineQuestion screenshot
+INFO     root:palm_function.py:147 =======choose first option======
+INFO     root:common_fun.py:211 ========close subscribe page======
+INFO     root:palm_function.py:164 =======get result==========
+INFO     root:common_fun.py:162 get heartlinelineResult screenshot
+INFO     root:palm_function.py:168 =======back to home========
+INFO     root:myunit.py:11 ======tearDown=======

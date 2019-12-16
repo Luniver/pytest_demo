@@ -1,0 +1,81 @@
+{
+  "total" : 7,
+  "items" : [ {
+    "uid" : "fa259f14ae2f0cabd8a9a874f013dfe2",
+    "name" : "test_palm_judge_enter",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "4caf800eecfa079ea78d9593fddbb5dc",
+    "name" : "test_palm_judge_lifeline",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "ca7c786674c34f4ae557cc5ab3b5a263",
+    "name" : "test_palm_judge_heartline",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "46397ef37b41b419b755ee7c56b50474",
+    "name" : "test_palm_judge_businessline",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "95f81faa21adb7d3bc3794eaeb06be43",
+    "name" : "test_palm_judge_headline",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "3dfe78b8bf9450f75d1874aa2064add1",
+    "name" : "test_palm_judge_destinyline",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "fb4b6884c6cf7538ba5efddb01558626",
+    "name" : "test_home_enter",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  } ]
+}

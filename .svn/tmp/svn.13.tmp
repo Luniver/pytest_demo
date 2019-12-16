@@ -1,0 +1,8 @@
+"Status","Name","Duration in ms","Description"
+"passed","test_case.test002_palm_judge.Test_Palm_judge#test_palm_judge_enter","23660",""
+"passed","test_case.test002_palm_judge.Test_Palm_judge#test_palm_judge_destinyline","54292",""
+"passed","test_case.test002_palm_judge.Test_Palm_judge#test_palm_judge_lifeline","63593",""
+"passed","test_case.test002_palm_judge.Test_Palm_judge#test_palm_judge_heartline","49855",""
+"passed","test_case.test002_palm_judge.Test_Palm_judge#test_palm_judge_headline","57807",""
+"passed","test_case.test001_homepage_enter.Test_Home_enter#test_home_enter","18084",""
+"passed","test_case.test002_palm_judge.Test_Palm_judge#test_palm_judge_businessline","60059",""

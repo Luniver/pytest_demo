@@ -1,0 +1,71 @@
+[ {
+  "uid" : "38d9f8f4a9425318",
+  "name" : "test_palm_judge_heartline",
+  "time" : {
+    "start" : 1575022318839,
+    "stop" : 1575022368694,
+    "duration" : 49855
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "445d1f032b5aab7d",
+  "name" : "test_palm_judge_headline",
+  "time" : {
+    "start" : 1575022582001,
+    "stop" : 1575022639808,
+    "duration" : 57807
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "28518ef5e9316e25",
+  "name" : "test_palm_judge_lifeline",
+  "time" : {
+    "start" : 1575022214318,
+    "stop" : 1575022277911,
+    "duration" : 63593
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e8bb6d2ca2312424",
+  "name" : "test_palm_judge_destinyline",
+  "time" : {
+    "start" : 1575022679549,
+    "stop" : 1575022733841,
+    "duration" : 54292
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d00905d5166e396a",
+  "name" : "test_palm_judge_enter",
+  "time" : {
+    "start" : 1575022150797,
+    "stop" : 1575022174457,
+    "duration" : 23660
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1ae1bd6ee9bbeae7",
+  "name" : "test_home_enter",
+  "time" : {
+    "start" : 1576482273044,
+    "stop" : 1576482291156,
+    "duration" : 18112
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "266a1289d455c7f1",
+  "name" : "test_palm_judge_businessline",
+  "time" : {
+    "start" : 1575022481192,
+    "stop" : 1575022541251,
+    "duration" : 60059
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

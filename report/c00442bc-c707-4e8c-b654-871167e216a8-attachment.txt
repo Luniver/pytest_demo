@@ -1,0 +1,6 @@
+INFO     root:myunit.py:7 ======setUp======
+INFO     root:desired_caps.py:32 start app...
+INFO     root:test002_palm_judge.py:34 ==test_palm_judge_businessline start ==
+INFO     root:homeview.py:48 =======APP enter======
+INFO     root:common_fun.py:234 ============close first subscribe page============
+INFO     root:myunit.py:11 ======tearDown=======

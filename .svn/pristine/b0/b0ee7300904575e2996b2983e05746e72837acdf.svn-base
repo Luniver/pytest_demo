@@ -1,0 +1,5 @@
+{
+  "test_case/test001_homepage_enter.py::Test_Home_enter::test_home_enter": true,
+  "test_case/test003_information_input.py::Test_Information_Input": true,
+  "test_case/test012_MePage_information_input.py": true
+}
