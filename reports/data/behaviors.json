@@ -2,16 +2,64 @@
   "uid" : "b1a8273437954620fa374b796ffaacdd",
   "name" : "behaviors",
   "children" : [ {
+    "name" : "test_get_gender_change",
+    "children" : [ {
+      "name" : "test_get_gender_change",
+      "uid" : "835b8d33c46aa3d3",
+      "parentUid" : "da4086c3aeaa5dac68c7433a77a5f5d2",
+      "status" : "broken",
+      "time" : {
+        "start" : 1576550060939,
+        "stop" : 1576550060940,
+        "duration" : 1
+      },
+      "flaky" : true,
+      "parameters" : [ ]
+    } ],
+    "uid" : "da4086c3aeaa5dac68c7433a77a5f5d2"
+  }, {
+    "name" : "test_home_enter",
+    "children" : [ {
+      "name" : "test_home_enter",
+      "uid" : "4f07c5f4ec4332cd",
+      "parentUid" : "fb4b6884c6cf7538ba5efddb01558626",
+      "status" : "passed",
+      "time" : {
+        "start" : 1576551057748,
+        "stop" : 1576551086769,
+        "duration" : 29021
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "fb4b6884c6cf7538ba5efddb01558626"
+  }, {
+    "name" : "test_gender_change_enter",
+    "children" : [ {
+      "name" : "test_gender_change_enter",
+      "uid" : "44cbb6dbb8bde2fd",
+      "parentUid" : "d1fb3def110948d1feb4c32775376444",
+      "status" : "broken",
+      "time" : {
+        "start" : 1576551194641,
+        "stop" : 1576551194642,
+        "duration" : 1
+      },
+      "flaky" : true,
+      "parameters" : [ ]
+    } ],
+    "uid" : "d1fb3def110948d1feb4c32775376444"
+  }, {
     "name" : "test_palm_judge_enter",
     "children" : [ {
       "name" : "test_palm_judge_enter",
-      "uid" : "d00905d5166e396a",
+      "uid" : "682532de8f2ed6cf",
       "parentUid" : "fa259f14ae2f0cabd8a9a874f013dfe2",
       "status" : "passed",
       "time" : {
-        "start" : 1575022150797,
-        "stop" : 1575022174457,
-        "duration" : 23660
+        "start" : 1576551314828,
+        "stop" : 1576551335791,
+        "duration" : 20963
       },
       "flaky" : false,
       "parameters" : [ ]
@@ -21,13 +69,13 @@
     "name" : "test_palm_judge_lifeline",
     "children" : [ {
       "name" : "test_palm_judge_lifeline",
-      "uid" : "28518ef5e9316e25",
+      "uid" : "d72608ed1848ebe2",
       "parentUid" : "4caf800eecfa079ea78d9593fddbb5dc",
       "status" : "passed",
       "time" : {
-        "start" : 1575022214318,
-        "stop" : 1575022277911,
-        "duration" : 63593
+        "start" : 1576551381866,
+        "stop" : 1576551443634,
+        "duration" : 61768
       },
       "flaky" : false,
       "parameters" : [ ]
@@ -37,15 +85,15 @@
     "name" : "test_palm_judge_heartline",
     "children" : [ {
       "name" : "test_palm_judge_heartline",
-      "uid" : "38d9f8f4a9425318",
+      "uid" : "75200e7a970e2eed",
       "parentUid" : "ca7c786674c34f4ae557cc5ab3b5a263",
       "status" : "passed",
       "time" : {
-        "start" : 1575022318839,
-        "stop" : 1575022368694,
-        "duration" : 49855
+        "start" : 1576551552303,
+        "stop" : 1576551613049,
+        "duration" : 60746
       },
-      "flaky" : false,
+      "flaky" : true,
       "parameters" : [ ]
     } ],
     "uid" : "ca7c786674c34f4ae557cc5ab3b5a263"
@@ -53,13 +101,13 @@
     "name" : "test_palm_judge_businessline",
     "children" : [ {
       "name" : "test_palm_judge_businessline",
-      "uid" : "266a1289d455c7f1",
+      "uid" : "fbca244d327981bc",
       "parentUid" : "46397ef37b41b419b755ee7c56b50474",
       "status" : "passed",
       "time" : {
-        "start" : 1575022481192,
-        "stop" : 1575022541251,
-        "duration" : 60059
+        "start" : 1576551653987,
+        "stop" : 1576551706069,
+        "duration" : 52082
       },
       "flaky" : true,
       "parameters" : [ ]
@@ -69,13 +117,13 @@
     "name" : "test_palm_judge_headline",
     "children" : [ {
       "name" : "test_palm_judge_headline",
-      "uid" : "445d1f032b5aab7d",
+      "uid" : "6c35fe2dbf8728b",
       "parentUid" : "95f81faa21adb7d3bc3794eaeb06be43",
       "status" : "passed",
       "time" : {
-        "start" : 1575022582001,
-        "stop" : 1575022639808,
-        "duration" : 57807
+        "start" : 1576551749372,
+        "stop" : 1576551800496,
+        "duration" : 51124
       },
       "flaky" : false,
       "parameters" : [ ]
@@ -85,33 +133,17 @@
     "name" : "test_palm_judge_destinyline",
     "children" : [ {
       "name" : "test_palm_judge_destinyline",
-      "uid" : "e8bb6d2ca2312424",
+      "uid" : "ce669f23df5bee8b",
       "parentUid" : "3dfe78b8bf9450f75d1874aa2064add1",
       "status" : "passed",
       "time" : {
-        "start" : 1575022679549,
-        "stop" : 1575022733841,
-        "duration" : 54292
+        "start" : 1576551841995,
+        "stop" : 1576551896480,
+        "duration" : 54485
       },
       "flaky" : false,
       "parameters" : [ ]
     } ],
     "uid" : "3dfe78b8bf9450f75d1874aa2064add1"
-  }, {
-    "name" : "test_home_enter",
-    "children" : [ {
-      "name" : "test_home_enter",
-      "uid" : "1ae1bd6ee9bbeae7",
-      "parentUid" : "fb4b6884c6cf7538ba5efddb01558626",
-      "status" : "passed",
-      "time" : {
-        "start" : 1576482273044,
-        "stop" : 1576482291156,
-        "duration" : 18112
-      },
-      "flaky" : false,
-      "parameters" : [ ]
-    } ],
-    "uid" : "fb4b6884c6cf7538ba5efddb01558626"
   } ]
 }

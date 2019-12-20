@@ -1,0 +1,8 @@
+INFO     root:myunit.py:7 ======setUp======
+INFO     root:desired_caps.py:32 start app...
+INFO     root:test015_gender_change.py:12 =====test_gender_change_enter start=====
+INFO     root:myunit.py:11 ======tearDown=======
+INFO     root:myunit.py:7 ======setUp======
+INFO     root:desired_caps.py:32 start app...
+INFO     root:test015_gender_change.py:12 =====test_gender_change_enter start=====
+INFO     root:myunit.py:11 ======tearDown=======

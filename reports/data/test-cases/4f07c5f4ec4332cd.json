@@ -1,0 +1,250 @@
+{
+  "uid" : "4f07c5f4ec4332cd",
+  "name" : "test_home_enter",
+  "fullName" : "test_case.test001_homepage_enter.Test_Home_enter#test_home_enter",
+  "historyId" : "b8fa79743e2859d1e4aa4698808ec5ea",
+  "time" : {
+    "start" : 1576551057748,
+    "stop" : 1576551086769,
+    "duration" : 29021
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "dff27667408cf651",
+      "name" : "log",
+      "source" : "dff27667408cf651.txt",
+      "type" : "text/plain",
+      "size" : 457
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "test_home_enter"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_case"
+  }, {
+    "name" : "suite",
+    "value" : "test001_homepage_enter"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_Home_enter"
+  }, {
+    "name" : "host",
+    "value" : "lichenyudeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "3238-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test001_homepage_enter"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "fcf80f94db991e91",
+      "status" : "passed",
+      "time" : {
+        "start" : 1576550737404,
+        "stop" : 1576550760993,
+        "duration" : 23589
+      }
+    }, {
+      "uid" : "33c907579d43302",
+      "status" : "passed",
+      "time" : {
+        "start" : 1576482273044,
+        "stop" : 1576482291156,
+        "duration" : 18112
+      }
+    }, {
+      "uid" : "721cf30fd2543287",
+      "status" : "passed",
+      "time" : {
+        "start" : 1576481384287,
+        "stop" : 1576481402371,
+        "duration" : 18084
+      }
+    }, {
+      "uid" : "50e298817c2879ab",
+      "status" : "passed",
+      "time" : {
+        "start" : 1575028902937,
+        "stop" : 1575028926837,
+        "duration" : 23900
+      }
+    }, {
+      "uid" : "4fcf8bb2139aa680",
+      "status" : "passed",
+      "time" : {
+        "start" : 1575028419618,
+        "stop" : 1575028443309,
+        "duration" : 23691
+      }
+    }, {
+      "uid" : "fa89ac387403edbc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1575020385195,
+        "stop" : 1575020402577,
+        "duration" : 17382
+      }
+    }, {
+      "uid" : "c40f068162f39bb4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1575020068849,
+        "stop" : 1575020094132,
+        "duration" : 25283
+      }
+    }, {
+      "uid" : "6f8f62cc22711662",
+      "status" : "passed",
+      "time" : {
+        "start" : 1575019843292,
+        "stop" : 1575019870884,
+        "duration" : 27592
+      }
+    }, {
+      "uid" : "b1f569d240907764",
+      "status" : "passed",
+      "time" : {
+        "start" : 1575007989131,
+        "stop" : 1575008012347,
+        "duration" : 23216
+      }
+    }, {
+      "uid" : "5b7ba8b59f1867c9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1575007725039,
+        "stop" : 1575007746635,
+        "duration" : 21596
+      }
+    }, {
+      "uid" : "b65daa5ccf9c1dad",
+      "status" : "passed",
+      "time" : {
+        "start" : 1575007528905,
+        "stop" : 1575007547537,
+        "duration" : 18632
+      }
+    }, {
+      "uid" : "58a2a80efd9c75b1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574998537784,
+        "stop" : 1574998555001,
+        "duration" : 17217
+      }
+    }, {
+      "uid" : "35e1f997833d82c4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574998391791,
+        "stop" : 1574998409075,
+        "duration" : 17284
+      }
+    }, {
+      "uid" : "454ee090ad37267b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574998234871,
+        "stop" : 1574998251735,
+        "duration" : 16864
+      }
+    }, {
+      "uid" : "ceb994a7b7611679",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574996683986,
+        "stop" : 1574996704606,
+        "duration" : 20620
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 28,
+        "unknown" : 0,
+        "total" : 28
+      },
+      "items" : [ {
+        "uid" : "cd24f327d21c593b",
+        "reportUrl" : "http://172.16.4.100:8080/job/Palm_pytest/29/allure/#testresult/cd24f327d21c593b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1576551057748,
+          "stop" : 1576551086769,
+          "duration" : 29021
+        }
+      }, {
+        "uid" : "d622a1bd2290d548",
+        "reportUrl" : "http://172.16.4.100:8080/job/Palm_pytest/28/allure/#testresult/d622a1bd2290d548",
+        "status" : "passed",
+        "time" : {
+          "start" : 1576551057748,
+          "stop" : 1576551086769,
+          "duration" : 29021
+        }
+      }, {
+        "uid" : "84275f586175b5c5",
+        "reportUrl" : "http://172.16.4.100:8080/job/Palm_pytest/27/allure/#testresult/84275f586175b5c5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1576550737404,
+          "stop" : 1576550760993,
+          "duration" : 23589
+        }
+      }, {
+        "uid" : "212551fd350b1f4f",
+        "reportUrl" : "http://172.16.4.100:8080/job/Palm_pytest/26/allure/#testresult/212551fd350b1f4f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1576482273044,
+          "stop" : 1576482291156,
+          "duration" : 18112
+        }
+      }, {
+        "uid" : "d5cec4c90ca54ce5",
+        "reportUrl" : "http://172.16.4.100:8080/job/Palm_pytest/25/allure/#testresult/d5cec4c90ca54ce5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1576482273044,
+          "stop" : 1576482291156,
+          "duration" : 18112
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "4f07c5f4ec4332cd.json",
+  "parameterValues" : [ ]
+}

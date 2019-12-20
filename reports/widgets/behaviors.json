@@ -1,6 +1,39 @@
 {
-  "total" : 7,
+  "total" : 9,
   "items" : [ {
+    "uid" : "da4086c3aeaa5dac68c7433a77a5f5d2",
+    "name" : "test_get_gender_change",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "d1fb3def110948d1feb4c32775376444",
+    "name" : "test_gender_change_enter",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "fb4b6884c6cf7538ba5efddb01558626",
+    "name" : "test_home_enter",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
     "uid" : "fa259f14ae2f0cabd8a9a874f013dfe2",
     "name" : "test_palm_judge_enter",
     "statistic" : {
@@ -58,17 +91,6 @@
   }, {
     "uid" : "3dfe78b8bf9450f75d1874aa2064add1",
     "name" : "test_palm_judge_destinyline",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    }
-  }, {
-    "uid" : "fb4b6884c6cf7538ba5efddb01558626",
-    "name" : "test_home_enter",
     "statistic" : {
       "failed" : 0,
       "broken" : 0,

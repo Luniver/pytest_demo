@@ -2,9 +2,9 @@
   "name" : "Jenkins",
   "type" : "jenkins",
   "url" : "http://172.16.4.100:8080/",
-  "buildOrder" : 23,
-  "buildName" : "Palm_pytest #23",
-  "buildUrl" : "http://172.16.4.100:8080/job/Palm_pytest/23/",
+  "buildOrder" : 30,
+  "buildName" : "Palm_pytest #30",
+  "buildUrl" : "http://172.16.4.100:8080/job/Palm_pytest/30/",
   "reportName" : "AllureReport",
-  "reportUrl" : "http://172.16.4.100:8080/job/Palm_pytest/23/allure"
+  "reportUrl" : "http://172.16.4.100:8080/job/Palm_pytest/30/allure"
 } ]

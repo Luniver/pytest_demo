@@ -1,5 +1,37 @@
 {
   "uid" : "4b4757e66a1912dae1a509f688f20b0f",
   "name" : "categories",
-  "children" : [ ]
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "AttributeError: 'Face' object has no attribute 'gender_change_enter'",
+      "children" : [ {
+        "name" : "test_get_gender_change",
+        "uid" : "835b8d33c46aa3d3",
+        "parentUid" : "e874250b4e919408b8c18998aa1176fb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1576550060939,
+          "stop" : 1576550060940,
+          "duration" : 1
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_gender_change_enter",
+        "uid" : "44cbb6dbb8bde2fd",
+        "parentUid" : "e874250b4e919408b8c18998aa1176fb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1576551194641,
+          "stop" : 1576551194642,
+          "duration" : 1
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e874250b4e919408b8c18998aa1176fb"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
 }

@@ -2988,3 +2988,412 @@
 2019-12-16 15:44:47,343 homeview.py[line:19] INFO =======switch_home======
 2019-12-16 15:44:49,344 common_fun.py[line:162] INFO get home_page screenshot
 2019-12-16 15:44:51,156 myunit.py[line:11] INFO ======tearDown=======
+2019-12-17 10:24:52,026 myunit.py[line:7] INFO ======setUp======
+2019-12-17 10:24:52,029 desired_caps.py[line:32] INFO start app...
+2019-12-17 10:25:56,924 test015_gender_change.py[line:12] INFO =====test_gender_change_enter start=====
+2019-12-17 10:25:56,982 myunit.py[line:11] INFO ======tearDown=======
+2019-12-17 10:26:04,846 myunit.py[line:7] INFO ======setUp======
+2019-12-17 10:26:04,850 desired_caps.py[line:32] INFO start app...
+2019-12-17 10:30:23,124 myunit.py[line:7] INFO ======setUp======
+2019-12-17 10:30:23,129 desired_caps.py[line:32] INFO start app...
+2019-12-17 10:30:56,031 test015_gender_change.py[line:12] INFO =====test_gender_change_enter start=====
+2019-12-17 10:30:56,116 myunit.py[line:11] INFO ======tearDown=======
+2019-12-17 10:31:04,079 myunit.py[line:7] INFO ======setUp======
+2019-12-17 10:31:04,083 desired_caps.py[line:32] INFO start app...
+2019-12-17 10:31:34,224 test015_gender_change.py[line:12] INFO =====test_gender_change_enter start=====
+2019-12-17 10:31:34,229 myunit.py[line:11] INFO ======tearDown=======
+2019-12-17 10:31:41,889 myunit.py[line:7] INFO ======setUp======
+2019-12-17 10:31:41,892 desired_caps.py[line:32] INFO start app...
+2019-12-17 10:32:08,867 test015_gender_change.py[line:12] INFO =====test_gender_change_enter start=====
+2019-12-17 10:32:08,873 myunit.py[line:11] INFO ======tearDown=======
+2019-12-17 10:32:16,606 myunit.py[line:7] INFO ======setUp======
+2019-12-17 10:32:16,609 desired_caps.py[line:32] INFO start app...
+2019-12-17 10:32:50,736 test015_gender_change.py[line:12] INFO =====test_gender_change_enter start=====
+2019-12-17 10:32:50,741 myunit.py[line:11] INFO ======tearDown=======
+2019-12-17 10:32:56,757 myunit.py[line:7] INFO ======setUp======
+2019-12-17 10:32:56,760 desired_caps.py[line:32] INFO start app...
+2019-12-17 10:33:36,060 test015_gender_change.py[line:19] INFO =====test_get_gender_change start=====
+2019-12-17 10:33:36,064 myunit.py[line:11] INFO ======tearDown=======
+2019-12-17 10:33:44,224 myunit.py[line:7] INFO ======setUp======
+2019-12-17 10:33:44,228 desired_caps.py[line:32] INFO start app...
+2019-12-17 10:34:20,938 test015_gender_change.py[line:19] INFO =====test_get_gender_change start=====
+2019-12-17 10:34:20,942 myunit.py[line:11] INFO ======tearDown=======
+2019-12-17 10:34:29,354 myunit.py[line:7] INFO ======setUp======
+2019-12-17 10:34:29,357 desired_caps.py[line:32] INFO start app...
+2019-12-17 10:35:02,607 myunit.py[line:7] INFO ==setUp==
+2019-12-17 10:35:02,614 desired_caps.py[line:31] INFO start app...
+2019-12-17 10:35:36,879 test015_gender_change.py[line:12] INFO =====test_gender_change_enter start=====
+2019-12-17 10:35:36,880 homeview.py[line:76] INFO ========APP enter=======
+2019-12-17 10:35:36,881 common_fun.py[line:231] INFO ============close first subscribe page============
+2019-12-17 10:35:41,848 myunit.py[line:11] INFO ==tearDown==
+2019-12-17 10:38:10,383 myunit.py[line:7] INFO ==setUp==
+2019-12-17 10:38:10,386 desired_caps.py[line:31] INFO start app...
+2019-12-17 10:38:34,918 test015_gender_change.py[line:19] INFO =====test_get_gender_change start=====
+2019-12-17 10:38:34,918 homeview.py[line:76] INFO ========APP enter=======
+2019-12-17 10:38:34,918 common_fun.py[line:231] INFO ============close first subscribe page============
+2019-12-17 10:38:51,894 homeview.py[line:79] INFO ======switch face======
+2019-12-17 10:38:53,899 face_function.py[line:60] INFO =====select and enter gender change=====
+2019-12-17 10:38:53,900 common_fun.py[line:256] INFO swipe Down
+2019-12-17 10:38:55,719 common_fun.py[line:180] INFO ========allow to in=======
+2019-12-17 10:38:58,517 face_function.py[line:76] INFO =====go to picture====
+2019-12-17 10:38:59,373 common_fun.py[line:180] INFO ========allow to in=======
+2019-12-17 10:39:06,156 face_function.py[line:93] INFO =====choose one picture=====
+2019-12-17 10:39:10,699 face_function.py[line:97] INFO =====picture confirm====
+2019-12-17 10:39:11,105 face_function.py[line:106] INFO =======Permission Need=========
+2019-12-17 10:39:14,359 face_function.py[line:117] INFO =======wait the old face result=======
+2019-12-17 10:39:14,360 common_fun.py[line:208] INFO ========close subscribe page======
+2019-12-17 10:39:26,257 common_fun.py[line:158] INFO get old face result screenshot
+2019-12-17 10:39:28,520 myunit.py[line:11] INFO ==tearDown==
+2019-12-17 10:39:45,317 myunit.py[line:7] INFO ==setUp==
+2019-12-17 10:39:45,319 desired_caps.py[line:31] INFO start app...
+2019-12-17 10:40:24,046 test015_gender_change.py[line:12] INFO =====test_gender_change_enter start=====
+2019-12-17 10:40:24,046 homeview.py[line:76] INFO ========APP enter=======
+2019-12-17 10:40:24,046 common_fun.py[line:231] INFO ============close first subscribe page============
+2019-12-17 10:40:41,916 homeview.py[line:79] INFO ======switch face======
+2019-12-17 10:40:43,920 face_function.py[line:60] INFO =====select and enter gender change=====
+2019-12-17 10:40:43,921 common_fun.py[line:256] INFO swipe Down
+2019-12-17 10:40:44,770 myunit.py[line:11] INFO ==tearDown==
+2019-12-17 10:41:02,679 myunit.py[line:7] INFO ======setUp======
+2019-12-17 10:41:02,681 desired_caps.py[line:32] INFO start app...
+2019-12-17 10:41:39,639 test015_gender_change.py[line:12] INFO =====test_gender_change_enter start=====
+2019-12-17 10:41:39,706 myunit.py[line:11] INFO ======tearDown=======
+2019-12-17 10:41:47,976 myunit.py[line:7] INFO ======setUp======
+2019-12-17 10:41:47,980 desired_caps.py[line:32] INFO start app...
+2019-12-17 10:42:10,686 myunit.py[line:7] INFO ==setUp==
+2019-12-17 10:42:10,695 desired_caps.py[line:31] INFO start app...
+2019-12-17 10:42:44,876 test015_gender_change.py[line:12] INFO =====test_gender_change_enter start=====
+2019-12-17 10:42:44,876 homeview.py[line:76] INFO ========APP enter=======
+2019-12-17 10:42:44,876 common_fun.py[line:231] INFO ============close first subscribe page============
+2019-12-17 10:42:59,794 homeview.py[line:79] INFO ======switch face======
+2019-12-17 10:43:01,796 face_function.py[line:60] INFO =====select and enter gender change=====
+2019-12-17 10:43:01,799 common_fun.py[line:256] INFO swipe Down
+2019-12-17 10:43:03,583 myunit.py[line:11] INFO ==tearDown==
+2019-12-17 10:43:09,864 myunit.py[line:7] INFO ==setUp==
+2019-12-17 10:43:09,868 desired_caps.py[line:31] INFO start app...
+2019-12-17 10:43:40,675 test015_gender_change.py[line:19] INFO =====test_get_gender_change start=====
+2019-12-17 10:43:40,676 homeview.py[line:76] INFO ========APP enter=======
+2019-12-17 10:43:40,676 common_fun.py[line:231] INFO ============close first subscribe page============
+2019-12-17 10:44:04,527 homeview.py[line:79] INFO ======switch face======
+2019-12-17 10:44:06,529 face_function.py[line:60] INFO =====select and enter gender change=====
+2019-12-17 10:44:06,529 common_fun.py[line:256] INFO swipe Down
+2019-12-17 10:44:09,028 common_fun.py[line:180] INFO ========allow to in=======
+2019-12-17 10:44:11,137 face_function.py[line:76] INFO =====go to picture====
+2019-12-17 10:44:11,828 common_fun.py[line:180] INFO ========allow to in=======
+2019-12-17 10:44:17,750 face_function.py[line:93] INFO =====choose one picture=====
+2019-12-17 10:44:22,262 face_function.py[line:97] INFO =====picture confirm====
+2019-12-17 10:44:22,408 face_function.py[line:106] INFO =======Permission Need=========
+2019-12-17 10:44:25,644 face_function.py[line:117] INFO =======wait the old face result=======
+2019-12-17 10:44:25,645 common_fun.py[line:208] INFO ========close subscribe page======
+2019-12-17 10:44:36,218 common_fun.py[line:158] INFO get old face result screenshot
+2019-12-17 10:44:38,410 myunit.py[line:11] INFO ==tearDown==
+2019-12-17 10:44:59,916 myunit.py[line:7] INFO ======setUp======
+2019-12-17 10:44:59,919 desired_caps.py[line:32] INFO start app...
+2019-12-17 10:45:37,403 test001_homepage_enter.py[line:17] INFO ==test_information_finish==
+2019-12-17 10:45:37,404 homeview.py[line:16] INFO ========APP enter=======
+2019-12-17 10:45:37,404 common_fun.py[line:234] INFO ============close first subscribe page============
+2019-12-17 10:45:56,228 homeview.py[line:19] INFO =======switch_home======
+2019-12-17 10:45:58,234 common_fun.py[line:162] INFO get home_page screenshot
+2019-12-17 10:46:00,993 myunit.py[line:11] INFO ======tearDown=======
+2019-12-17 10:50:28,140 myunit.py[line:7] INFO ======setUp======
+2019-12-17 10:50:28,144 desired_caps.py[line:32] INFO start app...
+2019-12-17 10:50:57,748 test001_homepage_enter.py[line:17] INFO ==test_information_finish==
+2019-12-17 10:50:57,748 homeview.py[line:16] INFO ========APP enter=======
+2019-12-17 10:50:57,748 common_fun.py[line:234] INFO ============close first subscribe page============
+2019-12-17 10:51:22,130 homeview.py[line:19] INFO =======switch_home======
+2019-12-17 10:51:24,132 common_fun.py[line:162] INFO get home_page screenshot
+2019-12-17 10:51:26,769 myunit.py[line:11] INFO ======tearDown=======
+2019-12-17 10:52:44,907 myunit.py[line:7] INFO ======setUp======
+2019-12-17 10:52:44,911 desired_caps.py[line:32] INFO start app...
+2019-12-17 10:53:14,641 test015_gender_change.py[line:12] INFO =====test_gender_change_enter start=====
+2019-12-17 10:53:14,713 myunit.py[line:11] INFO ======tearDown=======
+2019-12-17 10:53:22,835 myunit.py[line:7] INFO ======setUp======
+2019-12-17 10:53:22,839 desired_caps.py[line:32] INFO start app...
+2019-12-17 10:54:36,893 myunit.py[line:7] INFO ======setUp======
+2019-12-17 10:54:36,897 desired_caps.py[line:32] INFO start app...
+2019-12-17 10:55:14,828 test002_palm_judge.py[line:13] INFO ==test_palm_judge_enter start ==
+2019-12-17 10:55:14,828 homeview.py[line:48] INFO =======APP enter======
+2019-12-17 10:55:14,828 common_fun.py[line:234] INFO ============close first subscribe page============
+2019-12-17 10:55:29,342 homeview.py[line:51] INFO =====switch_palm======
+2019-12-17 10:55:31,347 common_fun.py[line:162] INFO get palm_home screenshot
+2019-12-17 10:55:34,008 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-12-17 10:55:35,704 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-12-17 10:55:35,791 myunit.py[line:11] INFO ======tearDown=======
+2019-12-17 10:55:41,941 myunit.py[line:7] INFO ======setUp======
+2019-12-17 10:55:41,944 desired_caps.py[line:32] INFO start app...
+2019-12-17 10:56:21,865 test002_palm_judge.py[line:20] INFO ==test_palm_judge_lifeline start ==
+2019-12-17 10:56:21,866 homeview.py[line:48] INFO =======APP enter======
+2019-12-17 10:56:21,866 common_fun.py[line:234] INFO ============close first subscribe page============
+2019-12-17 10:56:45,745 homeview.py[line:51] INFO =====switch_palm======
+2019-12-17 10:56:47,750 common_fun.py[line:162] INFO get palm_home screenshot
+2019-12-17 10:56:50,409 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-12-17 10:56:52,030 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-12-17 10:56:52,111 palm_function.py[line:91] INFO ========choose lifeline=======
+2019-12-17 10:56:59,275 common_fun.py[line:162] INFO get lifelineQuestion screenshot
+2019-12-17 10:57:00,935 palm_function.py[line:102] INFO =======choose first option======
+2019-12-17 10:57:01,067 common_fun.py[line:211] INFO ========close subscribe page======
+2019-12-17 10:57:17,180 palm_function.py[line:119] INFO =======get result==========
+2019-12-17 10:57:21,186 common_fun.py[line:162] INFO get lifelineResult screenshot
+2019-12-17 10:57:23,472 palm_function.py[line:123] INFO =======back to home========
+2019-12-17 10:57:23,633 myunit.py[line:11] INFO ======tearDown=======
+2019-12-17 10:57:29,719 myunit.py[line:7] INFO ======setUp======
+2019-12-17 10:57:29,721 desired_caps.py[line:32] INFO start app...
+2019-12-17 10:58:04,206 test002_palm_judge.py[line:27] INFO ==test_palm_judge_heartline start ==
+2019-12-17 10:58:04,206 homeview.py[line:48] INFO =======APP enter======
+2019-12-17 10:58:04,206 common_fun.py[line:234] INFO ============close first subscribe page============
+2019-12-17 10:58:27,790 myunit.py[line:11] INFO ======tearDown=======
+2019-12-17 10:58:35,939 myunit.py[line:7] INFO ======setUp======
+2019-12-17 10:58:35,942 desired_caps.py[line:32] INFO start app...
+2019-12-17 10:59:12,303 test002_palm_judge.py[line:27] INFO ==test_palm_judge_heartline start ==
+2019-12-17 10:59:12,303 homeview.py[line:48] INFO =======APP enter======
+2019-12-17 10:59:12,303 common_fun.py[line:234] INFO ============close first subscribe page============
+2019-12-17 10:59:35,226 homeview.py[line:51] INFO =====switch_palm======
+2019-12-17 10:59:37,227 common_fun.py[line:162] INFO get palm_home screenshot
+2019-12-17 10:59:39,907 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-12-17 10:59:41,522 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-12-17 10:59:41,604 palm_function.py[line:136] INFO ========choose heartline=======
+2019-12-17 10:59:48,705 common_fun.py[line:162] INFO get heartlineQuestion screenshot
+2019-12-17 10:59:50,300 palm_function.py[line:147] INFO =======choose first option======
+2019-12-17 10:59:50,417 common_fun.py[line:211] INFO ========close subscribe page======
+2019-12-17 11:00:06,501 palm_function.py[line:164] INFO =======get result==========
+2019-12-17 11:00:10,503 common_fun.py[line:162] INFO get heartlinelineResult screenshot
+2019-12-17 11:00:12,886 palm_function.py[line:168] INFO =======back to home========
+2019-12-17 11:00:13,050 myunit.py[line:11] INFO ======tearDown=======
+2019-12-17 11:00:19,143 myunit.py[line:7] INFO ======setUp======
+2019-12-17 11:00:19,146 desired_caps.py[line:32] INFO start app...
+2019-12-17 11:00:53,987 test002_palm_judge.py[line:34] INFO ==test_palm_judge_businessline start ==
+2019-12-17 11:00:53,987 homeview.py[line:48] INFO =======APP enter======
+2019-12-17 11:00:53,987 common_fun.py[line:234] INFO ============close first subscribe page============
+2019-12-17 11:01:08,367 homeview.py[line:51] INFO =====switch_palm======
+2019-12-17 11:01:10,373 common_fun.py[line:162] INFO get palm_home screenshot
+2019-12-17 11:01:13,041 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-12-17 11:01:14,728 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-12-17 11:01:14,806 palm_function.py[line:226] INFO ========choose businessline=======
+2019-12-17 11:01:21,756 common_fun.py[line:162] INFO get businesslineQuestion screenshot
+2019-12-17 11:01:23,396 palm_function.py[line:237] INFO =======choose first option======
+2019-12-17 11:01:23,522 common_fun.py[line:211] INFO ========close subscribe page======
+2019-12-17 11:01:39,629 palm_function.py[line:254] INFO =======get result==========
+2019-12-17 11:01:43,635 common_fun.py[line:162] INFO get businesslineResult screenshot
+2019-12-17 11:01:45,937 palm_function.py[line:258] INFO =======back to home========
+2019-12-17 11:01:46,069 myunit.py[line:11] INFO ======tearDown=======
+2019-12-17 11:01:52,162 myunit.py[line:7] INFO ======setUp======
+2019-12-17 11:01:52,166 desired_caps.py[line:32] INFO start app...
+2019-12-17 11:02:29,372 test002_palm_judge.py[line:41] INFO ==test_palm_judge_headline start ==
+2019-12-17 11:02:29,372 homeview.py[line:48] INFO =======APP enter======
+2019-12-17 11:02:29,372 common_fun.py[line:234] INFO ============close first subscribe page============
+2019-12-17 11:02:42,811 homeview.py[line:51] INFO =====switch_palm======
+2019-12-17 11:02:44,814 common_fun.py[line:162] INFO get palm_home screenshot
+2019-12-17 11:02:47,502 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-12-17 11:02:49,178 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-12-17 11:02:49,252 palm_function.py[line:181] INFO ========choose headline=======
+2019-12-17 11:02:56,164 common_fun.py[line:162] INFO get headlineQuestion screenshot
+2019-12-17 11:02:57,772 palm_function.py[line:192] INFO =======choose first option======
+2019-12-17 11:02:57,909 common_fun.py[line:211] INFO ========close subscribe page======
+2019-12-17 11:03:14,054 palm_function.py[line:209] INFO =======get result==========
+2019-12-17 11:03:18,056 common_fun.py[line:162] INFO get headlineResult screenshot
+2019-12-17 11:03:20,334 palm_function.py[line:213] INFO =======back to home========
+2019-12-17 11:03:20,496 myunit.py[line:11] INFO ======tearDown=======
+2019-12-17 11:03:26,603 myunit.py[line:7] INFO ======setUp======
+2019-12-17 11:03:26,605 desired_caps.py[line:32] INFO start app...
+2019-12-17 11:04:01,994 test002_palm_judge.py[line:48] INFO ==test_palm_judge_destinyline start ===
+2019-12-17 11:04:01,997 homeview.py[line:48] INFO =======APP enter======
+2019-12-17 11:04:01,997 common_fun.py[line:234] INFO ============close first subscribe page============
+2019-12-17 11:04:18,727 homeview.py[line:51] INFO =====switch_palm======
+2019-12-17 11:04:20,730 common_fun.py[line:162] INFO get palm_home screenshot
+2019-12-17 11:04:23,414 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-12-17 11:04:25,066 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-12-17 11:04:25,150 palm_function.py[line:272] INFO ========choose destinyline=======
+2019-12-17 11:04:32,258 common_fun.py[line:162] INFO get destinylineQuestion screenshot
+2019-12-17 11:04:33,947 palm_function.py[line:283] INFO =======choose first option======
+2019-12-17 11:04:34,096 common_fun.py[line:211] INFO ========close subscribe page======
+2019-12-17 11:04:50,194 palm_function.py[line:300] INFO =======get result==========
+2019-12-17 11:04:54,195 common_fun.py[line:162] INFO get destinylineResult screenshot
+2019-12-17 11:04:56,374 palm_function.py[line:304] INFO =======back to home========
+2019-12-17 11:04:56,480 myunit.py[line:11] INFO ======tearDown=======
+2019-12-19 18:28:14,321 myunit.py[line:7] INFO ==setUp==
+2019-12-19 18:28:14,326 desired_caps.py[line:31] INFO start app...
+2019-12-19 18:28:45,117 test016_baby_face.py[line:13] INFO ======est_baby_face_enter start======
+2019-12-19 18:28:45,117 homeview.py[line:76] INFO ========APP enter=======
+2019-12-19 18:28:45,117 common_fun.py[line:231] INFO ============close first subscribe page============
+2019-12-19 18:29:06,228 homeview.py[line:79] INFO ======switch face======
+2019-12-19 18:29:08,230 face_function.py[line:48] INFO ======select and enter baby face=======
+2019-12-19 18:29:08,826 myunit.py[line:11] INFO ==tearDown==
+2019-12-19 18:29:14,674 myunit.py[line:7] INFO ==setUp==
+2019-12-19 18:29:14,679 desired_caps.py[line:31] INFO start app...
+2019-12-19 18:29:38,965 test016_baby_face.py[line:20] INFO =====test_baby_face_mother_photo start======
+2019-12-19 18:29:38,966 homeview.py[line:76] INFO ========APP enter=======
+2019-12-19 18:29:38,966 common_fun.py[line:231] INFO ============close first subscribe page============
+2019-12-19 18:30:01,233 homeview.py[line:79] INFO ======switch face======
+2019-12-19 18:30:03,236 face_function.py[line:48] INFO ======select and enter baby face=======
+2019-12-19 18:30:04,845 common_fun.py[line:163] INFO ========allow to in=============
+2019-12-19 18:30:13,959 face_function.py[line:153] INFO =====choose one picture====
+2019-12-19 18:30:17,532 face_function.py[line:157] INFO =======picture sure=========
+2019-12-19 18:30:18,024 face_function.py[line:166] INFO =======Permission Need=========
+2019-12-19 18:30:21,107 face_function.py[line:177] INFO =======wait the baby mather result=======
+2019-12-19 18:30:25,088 common_fun.py[line:158] INFO get mother_photo screenshot
+2019-12-19 18:30:26,525 myunit.py[line:11] INFO ==tearDown==
+2019-12-19 18:30:32,451 myunit.py[line:7] INFO ==setUp==
+2019-12-19 18:30:32,455 desired_caps.py[line:31] INFO start app...
+2019-12-19 18:30:57,759 test016_baby_face.py[line:28] INFO =====test_baby_face_father_photo start======
+2019-12-19 18:30:57,760 homeview.py[line:76] INFO ========APP enter=======
+2019-12-19 18:30:57,760 common_fun.py[line:231] INFO ============close first subscribe page============
+2019-12-19 18:31:16,416 homeview.py[line:79] INFO ======switch face======
+2019-12-19 18:31:18,417 face_function.py[line:48] INFO ======select and enter baby face=======
+2019-12-19 18:31:28,267 myunit.py[line:11] INFO ==tearDown==
+2019-12-19 18:31:36,477 myunit.py[line:7] INFO ==setUp==
+2019-12-19 18:31:36,481 desired_caps.py[line:31] INFO start app...
+2019-12-19 18:32:05,498 test016_baby_face.py[line:28] INFO =====test_baby_face_father_photo start======
+2019-12-19 18:32:05,498 homeview.py[line:76] INFO ========APP enter=======
+2019-12-19 18:32:05,498 common_fun.py[line:231] INFO ============close first subscribe page============
+2019-12-19 18:32:22,341 homeview.py[line:79] INFO ======switch face======
+2019-12-19 18:32:24,345 face_function.py[line:48] INFO ======select and enter baby face=======
+2019-12-19 18:32:34,230 myunit.py[line:11] INFO ==tearDown==
+2019-12-19 18:32:42,465 myunit.py[line:7] INFO ==setUp==
+2019-12-19 18:32:42,469 desired_caps.py[line:31] INFO start app...
+2019-12-19 18:33:11,376 test016_baby_face.py[line:28] INFO =====test_baby_face_father_photo start======
+2019-12-19 18:33:11,377 homeview.py[line:76] INFO ========APP enter=======
+2019-12-19 18:33:11,377 common_fun.py[line:231] INFO ============close first subscribe page============
+2019-12-19 18:33:27,928 homeview.py[line:79] INFO ======switch face======
+2019-12-19 18:33:29,930 face_function.py[line:48] INFO ======select and enter baby face=======
+2019-12-19 18:33:40,227 myunit.py[line:11] INFO ==tearDown==
+2019-12-19 18:33:48,534 myunit.py[line:7] INFO ==setUp==
+2019-12-19 18:33:48,537 desired_caps.py[line:31] INFO start app...
+2019-12-19 18:34:18,022 test016_baby_face.py[line:28] INFO =====test_baby_face_father_photo start======
+2019-12-19 18:34:18,023 homeview.py[line:76] INFO ========APP enter=======
+2019-12-19 18:34:18,024 common_fun.py[line:231] INFO ============close first subscribe page============
+2019-12-19 18:34:42,012 homeview.py[line:79] INFO ======switch face======
+2019-12-19 18:34:44,022 face_function.py[line:48] INFO ======select and enter baby face=======
+2019-12-19 18:34:54,022 myunit.py[line:11] INFO ==tearDown==
+2019-12-19 18:35:00,296 myunit.py[line:7] INFO ==setUp==
+2019-12-19 18:35:00,301 desired_caps.py[line:31] INFO start app...
+2019-12-19 18:36:58,536 myunit.py[line:7] INFO ==setUp==
+2019-12-19 18:36:58,540 desired_caps.py[line:31] INFO start app...
+2019-12-19 18:37:28,120 test016_baby_face.py[line:13] INFO ======est_baby_face_enter start======
+2019-12-19 18:37:28,120 homeview.py[line:76] INFO ========APP enter=======
+2019-12-19 18:37:28,120 common_fun.py[line:233] INFO ============close first subscribe page============
+2019-12-19 18:37:45,868 homeview.py[line:79] INFO ======switch face======
+2019-12-19 18:37:47,873 face_function.py[line:48] INFO ======select and enter baby face=======
+2019-12-19 18:37:48,194 myunit.py[line:11] INFO ==tearDown==
+2019-12-19 18:37:54,392 myunit.py[line:7] INFO ==setUp==
+2019-12-19 18:37:54,397 desired_caps.py[line:31] INFO start app...
+2019-12-19 18:38:28,648 test016_baby_face.py[line:20] INFO =====test_baby_face_mother_photo start======
+2019-12-19 18:38:28,649 homeview.py[line:76] INFO ========APP enter=======
+2019-12-19 18:38:28,649 common_fun.py[line:233] INFO ============close first subscribe page============
+2019-12-19 18:38:52,592 homeview.py[line:79] INFO ======switch face======
+2019-12-19 18:38:54,593 face_function.py[line:48] INFO ======select and enter baby face=======
+2019-12-19 18:38:56,328 common_fun.py[line:163] INFO ========allow to in=============
+2019-12-19 18:39:05,229 face_function.py[line:153] INFO =====choose one picture====
+2019-12-19 18:39:08,503 face_function.py[line:157] INFO =======picture sure=========
+2019-12-19 18:39:09,218 face_function.py[line:166] INFO =======Permission Need=========
+2019-12-19 18:39:12,435 face_function.py[line:177] INFO =======wait the baby mather result=======
+2019-12-19 18:39:16,906 common_fun.py[line:158] INFO get mother_photo screenshot
+2019-12-19 18:39:18,848 myunit.py[line:11] INFO ==tearDown==
+2019-12-19 18:39:25,096 myunit.py[line:7] INFO ==setUp==
+2019-12-19 18:39:25,098 desired_caps.py[line:31] INFO start app...
+2019-12-19 18:39:57,240 test016_baby_face.py[line:28] INFO =====test_baby_face_father_photo start======
+2019-12-19 18:39:57,240 homeview.py[line:76] INFO ========APP enter=======
+2019-12-19 18:39:57,240 common_fun.py[line:233] INFO ============close first subscribe page============
+2019-12-19 18:40:19,733 homeview.py[line:79] INFO ======switch face======
+2019-12-19 18:40:21,736 face_function.py[line:48] INFO ======select and enter baby face=======
+2019-12-19 18:40:23,509 common_fun.py[line:163] INFO ========allow to in=============
+2019-12-19 18:40:31,975 face_function.py[line:217] INFO =====choose one picture====
+2019-12-19 18:40:35,007 face_function.py[line:221] INFO =======picture sure=========
+2019-12-19 18:40:37,383 face_function.py[line:241] INFO =======wait the baby father result=======
+2019-12-19 18:40:47,282 myunit.py[line:11] INFO ==tearDown==
+2019-12-19 18:41:25,708 myunit.py[line:7] INFO ==setUp==
+2019-12-19 18:41:25,717 desired_caps.py[line:31] INFO start app...
+2019-12-19 18:41:59,561 test016_baby_face.py[line:13] INFO ======est_baby_face_enter start======
+2019-12-19 18:41:59,561 homeview.py[line:76] INFO ========APP enter=======
+2019-12-19 18:41:59,562 common_fun.py[line:233] INFO ============close first subscribe page============
+2019-12-19 18:42:14,578 homeview.py[line:79] INFO ======switch face======
+2019-12-19 18:42:16,583 face_function.py[line:48] INFO ======select and enter baby face=======
+2019-12-19 18:42:16,940 myunit.py[line:11] INFO ==tearDown==
+2019-12-19 18:42:23,114 myunit.py[line:7] INFO ==setUp==
+2019-12-19 18:42:23,118 desired_caps.py[line:31] INFO start app...
+2019-12-19 18:42:53,515 test016_baby_face.py[line:20] INFO =====test_baby_face_mother_photo start======
+2019-12-19 18:42:53,515 homeview.py[line:76] INFO ========APP enter=======
+2019-12-19 18:42:53,515 common_fun.py[line:233] INFO ============close first subscribe page============
+2019-12-19 18:43:08,935 homeview.py[line:79] INFO ======switch face======
+2019-12-19 18:43:10,936 face_function.py[line:48] INFO ======select and enter baby face=======
+2019-12-19 18:43:12,746 common_fun.py[line:163] INFO ========allow to in=============
+2019-12-19 18:43:21,666 face_function.py[line:153] INFO =====choose one picture====
+2019-12-19 18:43:24,702 face_function.py[line:157] INFO =======picture sure=========
+2019-12-19 18:43:25,227 face_function.py[line:166] INFO =======Permission Need=========
+2019-12-19 18:43:28,364 face_function.py[line:177] INFO =======wait the baby mather result=======
+2019-12-19 18:43:32,495 common_fun.py[line:158] INFO get mother_photo screenshot
+2019-12-19 18:43:34,526 myunit.py[line:11] INFO ==tearDown==
+2019-12-19 18:43:40,743 myunit.py[line:7] INFO ==setUp==
+2019-12-19 18:43:40,749 desired_caps.py[line:31] INFO start app...
+2019-12-19 18:44:12,103 test016_baby_face.py[line:28] INFO =====test_baby_face_father_photo start======
+2019-12-19 18:44:12,104 homeview.py[line:76] INFO ========APP enter=======
+2019-12-19 18:44:12,104 common_fun.py[line:233] INFO ============close first subscribe page============
+2019-12-19 18:44:27,891 homeview.py[line:79] INFO ======switch face======
+2019-12-19 18:44:29,896 face_function.py[line:48] INFO ======select and enter baby face=======
+2019-12-19 18:44:31,690 common_fun.py[line:163] INFO ========allow to in=============
+2019-12-19 18:44:40,227 face_function.py[line:217] INFO =====choose one picture====
+2019-12-19 18:44:43,356 face_function.py[line:221] INFO =======picture sure=========
+2019-12-19 18:44:43,855 face_function.py[line:230] INFO =======Permission Need=========
+2019-12-19 18:44:46,950 face_function.py[line:241] INFO =======wait the baby father result=======
+2019-12-19 18:44:50,982 common_fun.py[line:158] INFO get father_photo screenshot
+2019-12-19 18:44:52,947 myunit.py[line:11] INFO ==tearDown==
+2019-12-19 18:44:59,222 myunit.py[line:7] INFO ==setUp==
+2019-12-19 18:44:59,226 desired_caps.py[line:31] INFO start app...
+2019-12-19 18:45:32,299 test016_baby_face.py[line:36] INFO =====test_baby_face_mother_continue start======
+2019-12-19 18:45:32,299 homeview.py[line:76] INFO ========APP enter=======
+2019-12-19 18:45:32,300 common_fun.py[line:233] INFO ============close first subscribe page============
+2019-12-19 18:45:47,868 homeview.py[line:79] INFO ======switch face======
+2019-12-19 18:45:49,874 face_function.py[line:48] INFO ======select and enter baby face=======
+2019-12-19 18:45:51,639 common_fun.py[line:163] INFO ========allow to in=============
+2019-12-19 18:46:00,177 face_function.py[line:153] INFO =====choose one picture====
+2019-12-19 18:46:03,255 face_function.py[line:157] INFO =======picture sure=========
+2019-12-19 18:46:03,676 face_function.py[line:166] INFO =======Permission Need=========
+2019-12-19 18:46:06,760 face_function.py[line:177] INFO =======wait the baby mather result=======
+2019-12-19 18:46:11,542 common_fun.py[line:158] INFO get mother_photo screenshot
+2019-12-19 18:46:13,578 face_function.py[line:256] INFO =====continue button click=====
+2019-12-19 18:46:14,659 common_fun.py[line:210] INFO ========close subscribe page======
+2019-12-19 18:46:27,942 face_function.py[line:266] INFO =====get result=====
+2019-12-19 18:46:36,092 face_function.py[line:279] INFO ===check less mother or father toast===
+2019-12-19 18:46:36,158 common_fun.py[line:158] INFO get less mother or father toast screenshot
+2019-12-19 18:46:37,717 myunit.py[line:11] INFO ==tearDown==
+2019-12-19 18:46:44,040 myunit.py[line:7] INFO ==setUp==
+2019-12-19 18:46:44,046 desired_caps.py[line:31] INFO start app...
+2019-12-19 18:47:13,747 test016_baby_face.py[line:46] INFO =====test_baby_face_father_continue start======
+2019-12-19 18:47:13,747 homeview.py[line:76] INFO ========APP enter=======
+2019-12-19 18:47:13,747 common_fun.py[line:233] INFO ============close first subscribe page============
+2019-12-19 18:47:31,349 homeview.py[line:79] INFO ======switch face======
+2019-12-19 18:47:33,355 face_function.py[line:48] INFO ======select and enter baby face=======
+2019-12-19 18:47:35,119 common_fun.py[line:163] INFO ========allow to in=============
+2019-12-19 18:47:43,578 face_function.py[line:217] INFO =====choose one picture====
+2019-12-19 18:47:46,617 face_function.py[line:221] INFO =======picture sure=========
+2019-12-19 18:47:47,024 face_function.py[line:230] INFO =======Permission Need=========
+2019-12-19 18:47:50,106 face_function.py[line:241] INFO =======wait the baby father result=======
+2019-12-19 18:47:54,347 common_fun.py[line:158] INFO get father_photo screenshot
+2019-12-19 18:47:56,419 face_function.py[line:256] INFO =====continue button click=====
+2019-12-19 18:47:57,529 common_fun.py[line:210] INFO ========close subscribe page======
+2019-12-19 18:48:10,594 face_function.py[line:266] INFO =====get result=====
+2019-12-19 18:48:18,762 face_function.py[line:279] INFO ===check less mother or father toast===
+2019-12-19 18:48:18,809 common_fun.py[line:158] INFO get less mother or father toast screenshot
+2019-12-19 18:48:20,397 myunit.py[line:11] INFO ==tearDown==
+2019-12-19 18:48:26,753 myunit.py[line:7] INFO ==setUp==
+2019-12-19 18:48:26,758 desired_caps.py[line:31] INFO start app...
+2019-12-19 18:48:56,442 test016_baby_face.py[line:56] INFO =====test_get_baby_result start=====
+2019-12-19 18:48:56,442 homeview.py[line:76] INFO ========APP enter=======
+2019-12-19 18:48:56,442 common_fun.py[line:233] INFO ============close first subscribe page============
+2019-12-19 18:49:13,176 homeview.py[line:79] INFO ======switch face======
+2019-12-19 18:49:15,181 face_function.py[line:48] INFO ======select and enter baby face=======
+2019-12-19 18:49:16,988 common_fun.py[line:163] INFO ========allow to in=============
+2019-12-19 18:49:25,525 face_function.py[line:153] INFO =====choose one picture====
+2019-12-19 18:49:28,533 face_function.py[line:157] INFO =======picture sure=========
+2019-12-19 18:49:29,013 face_function.py[line:166] INFO =======Permission Need=========
+2019-12-19 18:49:32,104 face_function.py[line:177] INFO =======wait the baby mather result=======
+2019-12-19 18:49:37,127 common_fun.py[line:158] INFO get mother_photo screenshot
+2019-12-19 18:49:39,244 common_fun.py[line:163] INFO ========allow to in=============
+2019-12-19 18:50:00,833 face_function.py[line:217] INFO =====choose one picture====
+2019-12-19 18:50:03,886 face_function.py[line:221] INFO =======picture sure=========
+2019-12-19 18:50:04,143 face_function.py[line:230] INFO =======Permission Need=========
+2019-12-19 18:50:14,624 face_function.py[line:241] INFO =======wait the baby father result=======
+2019-12-19 18:50:16,716 common_fun.py[line:158] INFO get father_photo screenshot
+2019-12-19 18:50:19,081 face_function.py[line:256] INFO =====continue button click=====
+2019-12-19 18:50:23,267 common_fun.py[line:210] INFO ========close subscribe page======
+2019-12-19 18:50:29,889 face_function.py[line:266] INFO =====get result=====
+2019-12-19 18:50:30,849 common_fun.py[line:158] INFO get Baby Result screenshot
+2019-12-19 18:50:32,902 myunit.py[line:11] INFO ==tearDown==

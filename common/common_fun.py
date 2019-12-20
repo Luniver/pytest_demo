@@ -165,6 +165,7 @@ class Commom(BaseView):
             allowBtn= self.driver.find_element(*self.allow)
         except NoSuchElementException:
             print('can not find the button')
+            pass
         else:
             allowBtn.click()
         time.sleep(1)
@@ -172,6 +173,7 @@ class Commom(BaseView):
             allowBtn= self.driver.find_element(*self.allow)
         except NoSuchElementException:
             print('can not find the allow toast')
+            pass
         else:
             allowBtn.click()
 

@@ -26,6 +26,8 @@ class Face(HomeView):
     continue_button = (By.ID,'com.palm.test:id/btn_payment_continue')
     baby_result = (By.ID,'com.palm.test:id/iv_face_center')
 
+    toast = (By.ID, 'com.palm.test:id/tv_message')
+
     def old_face_enter(self):
         '''变老功能的进入'''
         self.switch_face()
@@ -182,6 +184,7 @@ class Face(HomeView):
             return False
         else:
             print('picture mother upload successed')
+            self.getScreenShot('mother_photo')
             return True
 
     def baby_father_take_photo(self):
@@ -193,7 +196,7 @@ class Face(HomeView):
             return False
         else:
             father_photo.click()
-        # self.allow_event()
+        self.allow_event()
         try:
             picture = self.driver.find_element(*self.face_picture)
         except NoSuchElementException:
@@ -224,14 +227,14 @@ class Face(HomeView):
         else:
             picture_ok.click()
 
-        # logging.info('=======Permission Need=========')
-        # try:
-        #     Yes = self.driver.find_element(*self.PermissionYes)
-        # except NoSuchElementException:
-        #     print('can not find the PermissionYes')
-        #     return False
-        # else:
-        #     Yes.click()
+        logging.info('=======Permission Need=========')
+        try:
+            Yes = self.driver.find_element(*self.PermissionYes)
+        except NoSuchElementException:
+            print('can not find the PermissionYes')
+            pass
+        else:
+            Yes.click()
 
         time.sleep(2)
 
@@ -245,6 +248,7 @@ class Face(HomeView):
             return False
         else:
             print('picture father upload successed')
+            self.getScreenShot('father_photo')
             return True
 
     def get_baby_result(self):
@@ -270,8 +274,18 @@ class Face(HomeView):
             self.getScreenShot('Baby Result')
             return True
 
-
-
+    def baby_check_toast(self):
+        '''检测提示toast'''
+        logging.info('===check less mother or father toast===')
+        try:
+            self.driver.find_element(*self.toast)
+        except NoSuchElementException:
+            print('can not find the toast')
+            return False
+        else:
+            print('get less mother or father toast')
+            self.getScreenShot('less mother or father toast')
+            return True
 
     def get_old_face(self):
         '''变老拍照'''
