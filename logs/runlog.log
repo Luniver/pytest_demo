@@ -3397,3 +3397,129 @@
 2019-12-19 18:50:29,889 face_function.py[line:266] INFO =====get result=====
 2019-12-19 18:50:30,849 common_fun.py[line:158] INFO get Baby Result screenshot
 2019-12-19 18:50:32,902 myunit.py[line:11] INFO ==tearDown==
+2019-12-31 16:29:07,751 myunit.py[line:7] INFO ==setUp==
+2019-12-31 16:29:07,780 desired_caps.py[line:31] INFO start app...
+2019-12-31 16:30:24,541 test016_baby_face.py[line:13] INFO ======est_baby_face_enter start======
+2019-12-31 16:30:24,543 homeview.py[line:76] INFO ========APP enter=======
+2019-12-31 16:30:24,543 common_fun.py[line:233] INFO ============close first subscribe page============
+2019-12-31 16:30:43,274 homeview.py[line:79] INFO ======switch face======
+2019-12-31 16:30:45,278 face_function.py[line:48] INFO ======select and enter baby face=======
+2019-12-31 16:30:45,627 myunit.py[line:11] INFO ==tearDown==
+2019-12-31 16:30:51,455 myunit.py[line:7] INFO ==setUp==
+2019-12-31 16:30:51,459 desired_caps.py[line:31] INFO start app...
+2019-12-31 16:31:50,660 test016_baby_face.py[line:20] INFO =====test_baby_face_mother_photo start======
+2019-12-31 16:31:50,661 homeview.py[line:76] INFO ========APP enter=======
+2019-12-31 16:31:50,661 common_fun.py[line:233] INFO ============close first subscribe page============
+2019-12-31 16:32:08,705 homeview.py[line:79] INFO ======switch face======
+2019-12-31 16:32:10,709 face_function.py[line:48] INFO ======select and enter baby face=======
+2019-12-31 16:32:12,579 common_fun.py[line:163] INFO ========allow to in=============
+2019-12-31 16:32:23,697 face_function.py[line:153] INFO =====choose one picture====
+2019-12-31 16:32:28,048 face_function.py[line:157] INFO =======picture sure=========
+2019-12-31 16:32:28,797 face_function.py[line:166] INFO =======Permission Need=========
+2019-12-31 16:32:31,934 face_function.py[line:177] INFO =======wait the baby mather result=======
+2019-12-31 16:32:38,869 common_fun.py[line:158] INFO get mother_photo screenshot
+2019-12-31 16:32:40,993 myunit.py[line:11] INFO ==tearDown==
+2019-12-31 16:32:47,430 myunit.py[line:7] INFO ==setUp==
+2019-12-31 16:32:47,433 desired_caps.py[line:31] INFO start app...
+2019-12-31 16:33:19,581 myunit.py[line:7] INFO ==setUp==
+2019-12-31 16:33:19,584 desired_caps.py[line:31] INFO start app...
+2019-12-31 16:34:19,245 test016_baby_face.py[line:28] INFO =====test_baby_face_father_photo start======
+2019-12-31 16:34:19,246 homeview.py[line:76] INFO ========APP enter=======
+2019-12-31 16:34:19,246 common_fun.py[line:233] INFO ============close first subscribe page============
+2019-12-31 16:34:44,818 homeview.py[line:79] INFO ======switch face======
+2019-12-31 16:34:46,822 face_function.py[line:48] INFO ======select and enter baby face=======
+2019-12-31 16:34:48,729 common_fun.py[line:163] INFO ========allow to in=============
+2019-12-31 16:34:57,471 face_function.py[line:217] INFO =====choose one picture====
+2019-12-31 16:35:00,470 face_function.py[line:221] INFO =======picture sure=========
+2019-12-31 16:35:00,998 face_function.py[line:230] INFO =======Permission Need=========
+2019-12-31 16:35:04,283 face_function.py[line:241] INFO =======wait the baby father result=======
+2019-12-31 16:35:08,789 common_fun.py[line:158] INFO get father_photo screenshot
+2019-12-31 16:35:10,789 myunit.py[line:11] INFO ==tearDown==
+2019-12-31 16:35:16,985 myunit.py[line:7] INFO ==setUp==
+2019-12-31 16:35:16,988 desired_caps.py[line:31] INFO start app...
+2019-12-31 16:36:18,856 test016_baby_face.py[line:36] INFO =====test_baby_face_mother_continue start======
+2019-12-31 16:36:18,856 homeview.py[line:76] INFO ========APP enter=======
+2019-12-31 16:36:18,856 common_fun.py[line:233] INFO ============close first subscribe page============
+2019-12-31 16:36:42,925 homeview.py[line:79] INFO ======switch face======
+2019-12-31 16:36:44,927 face_function.py[line:48] INFO ======select and enter baby face=======
+2019-12-31 16:36:46,704 common_fun.py[line:163] INFO ========allow to in=============
+2019-12-31 16:36:55,253 face_function.py[line:153] INFO =====choose one picture====
+2019-12-31 16:36:58,581 face_function.py[line:157] INFO =======picture sure=========
+2019-12-31 16:36:59,137 face_function.py[line:166] INFO =======Permission Need=========
+2019-12-31 16:37:02,235 face_function.py[line:177] INFO =======wait the baby mather result=======
+2019-12-31 16:37:07,054 common_fun.py[line:158] INFO get mother_photo screenshot
+2019-12-31 16:37:08,963 face_function.py[line:256] INFO =====continue button click=====
+2019-12-31 16:37:09,081 common_fun.py[line:210] INFO ========close subscribe page======
+2019-12-31 16:37:22,278 face_function.py[line:266] INFO =====get result=====
+2019-12-31 16:37:30,392 face_function.py[line:279] INFO ===check less mother or father toast===
+2019-12-31 16:37:30,436 common_fun.py[line:158] INFO get less mother or father toast screenshot
+2019-12-31 16:37:31,932 myunit.py[line:11] INFO ==tearDown==
+2019-12-31 16:37:38,245 myunit.py[line:7] INFO ==setUp==
+2019-12-31 16:37:38,250 desired_caps.py[line:31] INFO start app...
+2019-12-31 16:38:38,528 test016_baby_face.py[line:46] INFO =====test_baby_face_father_continue start======
+2019-12-31 16:38:38,529 homeview.py[line:76] INFO ========APP enter=======
+2019-12-31 16:38:38,529 common_fun.py[line:233] INFO ============close first subscribe page============
+2019-12-31 16:39:01,114 homeview.py[line:79] INFO ======switch face======
+2019-12-31 16:39:03,117 face_function.py[line:48] INFO ======select and enter baby face=======
+2019-12-31 16:39:05,106 common_fun.py[line:163] INFO ========allow to in=============
+2019-12-31 16:39:13,621 face_function.py[line:217] INFO =====choose one picture====
+2019-12-31 16:39:16,631 face_function.py[line:221] INFO =======picture sure=========
+2019-12-31 16:39:17,192 face_function.py[line:230] INFO =======Permission Need=========
+2019-12-31 16:39:20,293 face_function.py[line:241] INFO =======wait the baby father result=======
+2019-12-31 16:39:25,614 common_fun.py[line:158] INFO get father_photo screenshot
+2019-12-31 16:39:27,481 face_function.py[line:256] INFO =====continue button click=====
+2019-12-31 16:39:27,592 common_fun.py[line:210] INFO ========close subscribe page======
+2019-12-31 16:39:40,983 face_function.py[line:266] INFO =====get result=====
+2019-12-31 16:39:49,178 face_function.py[line:279] INFO ===check less mother or father toast===
+2019-12-31 16:39:49,227 common_fun.py[line:158] INFO get less mother or father toast screenshot
+2019-12-31 16:39:50,692 myunit.py[line:11] INFO ==tearDown==
+2019-12-31 16:39:56,946 myunit.py[line:7] INFO ==setUp==
+2019-12-31 16:39:56,948 desired_caps.py[line:31] INFO start app...
+2019-12-31 16:40:28,068 myunit.py[line:7] INFO ==setUp==
+2019-12-31 16:40:28,071 desired_caps.py[line:31] INFO start app...
+2019-12-31 16:41:27,296 test016_baby_face.py[line:56] INFO =====test_get_baby_result start=====
+2019-12-31 16:41:27,296 homeview.py[line:76] INFO ========APP enter=======
+2019-12-31 16:41:27,297 common_fun.py[line:233] INFO ============close first subscribe page============
+2019-12-31 16:41:46,766 homeview.py[line:79] INFO ======switch face======
+2019-12-31 16:41:48,767 face_function.py[line:48] INFO ======select and enter baby face=======
+2019-12-31 16:41:50,739 common_fun.py[line:163] INFO ========allow to in=============
+2019-12-31 16:41:59,190 face_function.py[line:153] INFO =====choose one picture====
+2019-12-31 16:42:02,197 face_function.py[line:157] INFO =======picture sure=========
+2019-12-31 16:42:02,720 face_function.py[line:166] INFO =======Permission Need=========
+2019-12-31 16:42:05,881 face_function.py[line:177] INFO =======wait the baby mather result=======
+2019-12-31 16:42:13,446 common_fun.py[line:158] INFO get mother_photo screenshot
+2019-12-31 16:42:15,546 common_fun.py[line:163] INFO ========allow to in=============
+2019-12-31 16:42:37,142 face_function.py[line:217] INFO =====choose one picture====
+2019-12-31 16:42:40,144 face_function.py[line:221] INFO =======picture sure=========
+2019-12-31 16:42:40,322 face_function.py[line:230] INFO =======Permission Need=========
+2019-12-31 16:42:50,645 face_function.py[line:241] INFO =======wait the baby father result=======
+2019-12-31 16:42:52,733 common_fun.py[line:158] INFO get father_photo screenshot
+2019-12-31 16:42:55,052 face_function.py[line:256] INFO =====continue button click=====
+2019-12-31 16:42:55,236 common_fun.py[line:210] INFO ========close subscribe page======
+2019-12-31 16:43:05,901 face_function.py[line:266] INFO =====get result=====
+2019-12-31 16:43:06,838 common_fun.py[line:158] INFO get Baby Result screenshot
+2019-12-31 16:43:08,746 myunit.py[line:11] INFO ==tearDown==
+2019-12-31 16:44:43,941 myunit.py[line:7] INFO ==setUp==
+2019-12-31 16:44:43,943 desired_caps.py[line:31] INFO start app...
+2019-12-31 16:45:37,263 test016_baby_face.py[line:56] INFO =====test_get_baby_result start=====
+2019-12-31 16:45:37,264 homeview.py[line:76] INFO ========APP enter=======
+2019-12-31 16:45:37,264 common_fun.py[line:233] INFO ============close first subscribe page============
+2019-12-31 16:46:02,247 homeview.py[line:79] INFO ======switch face======
+2019-12-31 16:46:04,250 face_function.py[line:48] INFO ======select and enter baby face=======
+2019-12-31 16:46:06,048 common_fun.py[line:163] INFO ========allow to in=============
+2019-12-31 16:46:14,559 face_function.py[line:153] INFO =====choose one picture====
+2019-12-31 16:46:17,567 face_function.py[line:157] INFO =======picture sure=========
+2019-12-31 16:46:18,221 face_function.py[line:166] INFO =======Permission Need=========
+2019-12-31 16:46:21,328 face_function.py[line:177] INFO =======wait the baby mather result=======
+2019-12-31 16:46:26,763 common_fun.py[line:158] INFO get mother_photo screenshot
+2019-12-31 16:46:28,863 common_fun.py[line:163] INFO ========allow to in=============
+2019-12-31 16:46:50,359 face_function.py[line:217] INFO =====choose one picture====
+2019-12-31 16:46:53,365 face_function.py[line:221] INFO =======picture sure=========
+2019-12-31 16:46:53,675 face_function.py[line:230] INFO =======Permission Need=========
+2019-12-31 16:47:04,083 face_function.py[line:241] INFO =======wait the baby father result=======
+2019-12-31 16:47:06,158 common_fun.py[line:158] INFO get father_photo screenshot
+2019-12-31 16:47:08,397 face_function.py[line:256] INFO =====continue button click=====
+2019-12-31 16:47:12,565 common_fun.py[line:210] INFO ========close subscribe page======
+2019-12-31 16:47:19,167 face_function.py[line:266] INFO =====get result=====
+2019-12-31 16:47:20,115 common_fun.py[line:158] INFO get Baby Result screenshot
+2019-12-31 16:47:22,018 myunit.py[line:11] INFO ==tearDown==

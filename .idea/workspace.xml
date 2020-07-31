@@ -1,281 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="077ed0aa-608b-4a6b-81d9-78c144f14ea3" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/test_case/test016_baby_face.py" afterDir="false" />
+    <list default="true" id="077ed0aa-608b-4a6b-81d9-78c144f14ea3" name="Default" comment="pytest model">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/businessView/face_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/businessView/face_function.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/common_fun.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/common_fun.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/runlog.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/runlog.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/executor.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/executor.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/history/categories-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/history/categories-trend.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/history/duration-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/history/duration-trend.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/history/history-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/history/history-trend.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/history/history.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/history/history.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/history/retry-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/history/retry-trend.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/testrun.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/testrun.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/data/attachments/10250bb55e642d5b.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/data/attachments/11c020f89c109c5e.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/data/attachments/2180bc7328284799.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/data/attachments/28e791e7a6454c4d.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/data/attachments/2bf323cc1e15f137.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/data/attachments/461a233be5b06fcc.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/data/attachments/644ef929c853b5c2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/data/attachments/7183b4f0b3f003b7.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/data/attachments/7409e7d24f81c895.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/data/attachments/78085a3e30812533.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/data/attachments/802e7f6dbcea8b11.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/data/attachments/874c0c495dfc514.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/data/attachments/8bf28da804d06911.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/data/attachments/a516b7e9723aeff2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/data/attachments/a55869917abded50.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/data/attachments/b766ba67e67cad0d.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/data/attachments/c4a311fd718836a7.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/data/attachments/cc553b606cba3e1a.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/data/attachments/d2a498e3a568af1a.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/data/attachments/dc1c25e493fa077d.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/data/attachments/e68630c9dc440612.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/data/behaviors.csv" beforeDir="false" afterPath="$PROJECT_DIR$/reports/data/behaviors.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/data/behaviors.json" beforeDir="false" afterPath="$PROJECT_DIR$/reports/data/behaviors.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/data/categories.csv" beforeDir="false" afterPath="$PROJECT_DIR$/reports/data/categories.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/data/categories.json" beforeDir="false" afterPath="$PROJECT_DIR$/reports/data/categories.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/data/packages.json" beforeDir="false" afterPath="$PROJECT_DIR$/reports/data/packages.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/data/suites.csv" beforeDir="false" afterPath="$PROJECT_DIR$/reports/data/suites.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/data/suites.json" beforeDir="false" afterPath="$PROJECT_DIR$/reports/data/suites.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/data/test-cases/1ae1bd6ee9bbeae7.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/data/test-cases/266a1289d455c7f1.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/data/test-cases/28518ef5e9316e25.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/data/test-cases/290b33c715db65df.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/data/test-cases/34bf4b31e5b59abf.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/data/test-cases/38d9f8f4a9425318.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/data/test-cases/3d5aa6cdacc9a485.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/data/test-cases/445d1f032b5aab7d.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/data/test-cases/46aafb8e3e265ba.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/data/test-cases/59e2f73776bea4af.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/data/test-cases/5daf93f1d1f78d32.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/data/test-cases/9900b5c7e58922a5.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/data/test-cases/9e3c7e1df0f08c7a.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/data/test-cases/af1633bfadf4fa9f.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/data/test-cases/c13fb4e3211e3898.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/data/test-cases/c4dc91b4b9a4ba2a.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/data/test-cases/d00905d5166e396a.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/data/test-cases/d243e5fe71eef74d.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/data/test-cases/d96f7ac876ba96b4.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/data/test-cases/e8bb6d2ca2312424.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/data/test-cases/ee14bad9cafa09ac.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/data/timeline.json" beforeDir="false" afterPath="$PROJECT_DIR$/reports/data/timeline.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/export/influxDbData.txt" beforeDir="false" afterPath="$PROJECT_DIR$/reports/export/influxDbData.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/export/prometheusData.txt" beforeDir="false" afterPath="$PROJECT_DIR$/reports/export/prometheusData.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/history/categories-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/reports/history/categories-trend.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/history/duration-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/reports/history/duration-trend.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/history/history-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/reports/history/history-trend.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/history/history.json" beforeDir="false" afterPath="$PROJECT_DIR$/reports/history/history.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/history/retry-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/reports/history/retry-trend.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/widgets/behaviors.json" beforeDir="false" afterPath="$PROJECT_DIR$/reports/widgets/behaviors.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/widgets/categories-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/reports/widgets/categories-trend.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/widgets/categories.json" beforeDir="false" afterPath="$PROJECT_DIR$/reports/widgets/categories.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/widgets/duration-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/reports/widgets/duration-trend.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/widgets/duration.json" beforeDir="false" afterPath="$PROJECT_DIR$/reports/widgets/duration.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/widgets/executors.json" beforeDir="false" afterPath="$PROJECT_DIR$/reports/widgets/executors.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/widgets/history-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/reports/widgets/history-trend.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/widgets/retry-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/reports/widgets/retry-trend.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/widgets/severity.json" beforeDir="false" afterPath="$PROJECT_DIR$/reports/widgets/severity.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/widgets/status-chart.json" beforeDir="false" afterPath="$PROJECT_DIR$/reports/widgets/status-chart.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/widgets/suites.json" beforeDir="false" afterPath="$PROJECT_DIR$/reports/widgets/suites.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/widgets/summary.json" beforeDir="false" afterPath="$PROJECT_DIR$/reports/widgets/summary.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/All career tarot page_2019-12-16 10_58_04.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/All career tarot page_2019-12-16 12_08_29.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/All career tarot page_2019-12-16 12_12_40.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/All career tarot page_2019-12-16 13_53_31.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/All career tarot page_2019-12-16 14_08_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/All career tarot page_2019-12-16 14_11_18.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/All carrer tarot page_2019-12-13 16_47_52.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/All carrer tarot page_2019-12-16 10_19_45.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/All love tarot page_2019-12-16 11_00_32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/All love tarot page_2019-12-16 14_42_38.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Baby Result_2019-12-13 15_20_42.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Baby Result_2019-12-13 15_29_32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Baby_Face_Homepage_2019-12-13 10_28_55.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Baby_Face_Homepage_2019-12-13 10_31_30.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Baby_Face_Homepage_2019-12-13 10_34_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Career_2019-12-16 10_57_51.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Career_2019-12-16 11_11_53.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Career_2019-12-16 11_13_25.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Career_2019-12-16 11_15_45.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Career_2019-12-16 11_22_45.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Career_2019-12-16 11_56_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Career_2019-12-16 12_04_09.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Career_2019-12-16 12_08_16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Career_2019-12-16 12_11_30.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Career_2019-12-16 12_12_26.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Career_2019-12-16 13_52_02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Career_2019-12-16 13_53_16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Career_2019-12-16 14_08_35.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Career_2019-12-16 14_10_02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Career_2019-12-16 14_11_03.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Career_2019-12-16 14_12_28.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Career_2019-12-16 14_13_39.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Career_2019-12-16 14_14_53.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Carrer_2019-12-13 16_04_20.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Carrer_2019-12-13 16_47_28.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Carrer_2019-12-16 10_19_23.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Carrer_2019-12-16 10_49_41.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Face_homepage_2019-12-11 18_07_09.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Face_homepage_2019-12-13 10_24_25.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Fifth love tarot information_2019-12-16 11_00_29.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Fifth love tarot information_2019-12-16 14_42_36.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Fifth tarot information_2019-12-13 16_33_16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Fifth tarot information_2019-12-13 16_35_17.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/First carrer tarot information_2019-12-13 16_47_33.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/First carrer tarot information_2019-12-16 10_19_28.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/First carrer tarot information_2019-12-16 10_49_45.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/First carrer tarot information_2019-12-16 10_57_53.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/First carrer tarot information_2019-12-16 11_11_57.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/First carrer tarot information_2019-12-16 11_13_29.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/First carrer tarot information_2019-12-16 11_15_50.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/First carrer tarot information_2019-12-16 11_22_50.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/First carrer tarot information_2019-12-16 12_08_18.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/First carrer tarot information_2019-12-16 12_12_29.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/First carrer tarot information_2019-12-16 13_53_19.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/First carrer tarot information_2019-12-16 14_08_38.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/First carrer tarot information_2019-12-16 14_11_06.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/First carrer tarot information_2019-12-16 14_12_33.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/First carrer tarot information_2019-12-16 14_13_44.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/First carrer tarot information_2019-12-16 14_14_58.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/First love tarot information_2019-12-16 11_00_17.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/First love tarot information_2019-12-16 11_34_44.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/First love tarot information_2019-12-16 11_39_03.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/First love tarot information_2019-12-16 11_41_16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/First love tarot information_2019-12-16 11_45_05.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/First love tarot information_2019-12-16 14_42_23.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/First love tarot information_2019-12-16 14_43_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/First love tarot information_2019-12-16 14_44_52.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/First love tarot information_2019-12-16 14_45_59.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/First tarot information_2019-12-13 16_32_54.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/First tarot information_2019-12-13 16_34_54.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Five tarot page_2019-12-13 16_35_20.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Fourth career tarot information_2019-12-16 10_58_02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Fourth career tarot information_2019-12-16 12_08_27.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Fourth career tarot information_2019-12-16 12_12_38.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Fourth career tarot information_2019-12-16 13_53_29.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Fourth career tarot information_2019-12-16 14_08_46.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Fourth career tarot information_2019-12-16 14_11_15.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Fourth carrer tarot information_2019-12-13 16_47_50.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Fourth carrer tarot information_2019-12-16 10_19_42.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Fourth love tarot information_2019-12-16 11_00_26.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Fourth love tarot information_2019-12-16 14_42_33.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Fourth tarot information_2019-12-13 16_33_10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Fourth tarot information_2019-12-13 16_35_11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/SearchTrueLove_2019-12-13 16_00_19.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/SearchTrueLove_2019-12-13 16_20_22.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/SearchTrueLove_2019-12-13 16_32_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/SearchTrueLove_2019-12-13 16_34_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/SearchTrueLove_2019-12-16 11_00_15.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/SearchTrueLove_2019-12-16 11_34_42.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/SearchTrueLove_2019-12-16 11_39_00.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/SearchTrueLove_2019-12-16 11_41_12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/SearchTrueLove_2019-12-16 11_45_01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/SearchTrueLove_2019-12-16 14_41_28.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/SearchTrueLove_2019-12-16 14_42_20.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/SearchTrueLove_2019-12-16 14_43_44.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/SearchTrueLove_2019-12-16 14_44_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/SearchTrueLove_2019-12-16 14_45_56.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Second career tarot information_2019-12-16 10_57_56.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Second career tarot information_2019-12-16 12_08_21.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Second career tarot information_2019-12-16 12_12_32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Second career tarot information_2019-12-16 13_53_22.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Second career tarot information_2019-12-16 14_08_41.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Second career tarot information_2019-12-16 14_11_09.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Second carrer tarot information_2019-12-13 16_47_39.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Second carrer tarot information_2019-12-16 10_19_32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Second love tarot information_2019-12-16 11_00_20.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Second love tarot information_2019-12-16 14_42_27.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Second tarot information_2019-12-13 16_32_59.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Second tarot information_2019-12-13 16_35_00.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/TarotEveryday enterPage_2019-12-13 15_53_36.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/TarotEveryday enterPage_2019-12-13 15_55_56.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Third career tarot information_2019-12-16 10_57_59.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Third career tarot information_2019-12-16 12_08_24.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Third career tarot information_2019-12-16 12_12_35.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Third career tarot information_2019-12-16 13_53_26.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Third career tarot information_2019-12-16 14_08_44.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Third career tarot information_2019-12-16 14_11_12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Third carrer tarot information_2019-12-13 16_47_44.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Third carrer tarot information_2019-12-16 10_19_37.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Third love tarot information_2019-12-16 11_00_23.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Third love tarot information_2019-12-16 14_42_30.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Third tarot information_2019-12-13 16_33_05.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Third tarot information_2019-12-13 16_35_06.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/career tarot_2019-12-16 11_22_54.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/career tarot_2019-12-16 14_15_03.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/constellation everyday page_2019-12-11 17_58_29.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/constellation everyday page_2019-12-11 18_00_59.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/constellation everyday page_2019-12-11 18_04_44.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/face_home_2019-12-11 18_07_06.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/face_home_2019-12-13 10_24_22.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/face_home_2019-12-13 10_31_26.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/face_home_2019-12-13 10_34_44.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/face_home_2019-12-13 10_42_39.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/face_home_2019-12-13 10_48_10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/face_home_2019-12-13 10_55_16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/face_home_2019-12-13 10_56_55.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/face_home_2019-12-13 10_58_47.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/get first tarot page information_2019-12-13 16_20_29.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/home_page_2019-11-28 15_18_32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/home_page_2019-11-28 15_34_28.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/home_page_2019-12-02 13_53_14.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/me_page_2019-12-03 14_37_59.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/me_page_2019-12-03 14_46_36.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/me_page_2019-12-03 14_48_16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/me_page_2019-12-03 14_52_09.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/me_page_2019-12-03 14_54_13.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/me_page_2019-12-03 15_34_34.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/me_page_2019-12-03 15_52_16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/me_page_2019-12-03 16_26_22.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/me_page_2019-12-03 16_31_32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/me_page_2019-12-03 16_39_40.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/me_page_2019-12-03 16_42_08.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/me_page_2019-12-03 16_43_15.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/me_page_2019-12-03 16_45_53.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/me_page_2019-12-03 16_49_12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/me_page_2019-12-03 16_50_20.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/me_page_2019-12-03 16_51_26.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/me_page_2019-12-03 16_52_28.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/me_page_2019-12-03 16_53_37.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/me_page_2019-12-03 17_30_41.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/me_page_2019-12-03 17_31_43.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/me_page_2019-12-03 17_32_53.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/me_page_2019-12-03 17_34_08.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/me_page_2019-12-03 17_35_15.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/me_page_2019-12-03 17_36_49.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/me_page_2019-12-03 17_38_04.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/me_page_2019-12-03 17_39_10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/me_page_2019-12-03 17_40_10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/me_page_2019-12-03 17_41_13.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/me_page_2019-12-11 17_58_08.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/me_page_2019-12-11 18_00_34.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/me_page_2019-12-11 18_04_17.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/old face result_2019-12-11 18_07_44.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/old face result_2019-12-13 10_24_46.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/old face result_2019-12-13 11_14_22.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/old face result_2019-12-13 12_00_06.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/old face result_2019-12-13 20_43_00.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/old face result_2019-12-16 10_17_33.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/personal information_2019-12-11 17_58_21.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/personal information_2019-12-11 18_00_50.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/personal information_2019-12-11 18_04_33.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/tarot home page_2019-12-16 11_15_55.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/tarot home page_2019-12-16 11_41_21.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/tarot home page_2019-12-16 14_13_49.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/tarot home page_2019-12-16 14_44_57.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/tarot quit message_2019-12-16 10_49_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/tarot quit message_2019-12-16 11_34_47.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/tarot quit message_2019-12-16 11_39_06.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/tarot quit message_2019-12-16 14_12_36.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/tarot quit message_2019-12-16 14_43_51.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/ture tarot_2019-12-16 11_45_09.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/ture tarot_2019-12-16 14_46_04.png" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -293,6 +21,7 @@
     <SUITE FILE_PATH="coverage/Palm_test$py_test_for_test012_MePage_information_input_Test_information_input_test_no_name_Done_check.coverage" NAME="py.test for test012_MePage_information_input.Test_information_input.test_no_name_Done_check Coverage Results" MODIFIED="1575361848283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
     <SUITE FILE_PATH="coverage/Palm_test$Constellation_function.coverage" NAME="Constellation_function Coverage Results" MODIFIED="1576058615784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/businessView" />
     <SUITE FILE_PATH="coverage/Palm_test$me_view.coverage" NAME="me_view Coverage Results" MODIFIED="1575356005135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/businessView" />
+    <SUITE FILE_PATH="coverage/Palm_test$py_test_for_test016_baby_face_Test_Baby_face_test_get_baby_result.coverage" NAME="py.test for test016_baby_face.Test_Baby_face.test_get_baby_result Coverage Results" MODIFIED="1577781882067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
     <SUITE FILE_PATH="coverage/Palm_test$test001_homepage_enter.coverage" NAME="test001_homepage_enter Coverage Results" MODIFIED="1575266183034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Palm_test$desired_caps.coverage" NAME="desired_caps Coverage Results" MODIFIED="1574924943230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Palm_test$py_test_in_test015_gender_change_py.coverage" NAME="py.test in test015_gender_change.py Coverage Results" MODIFIED="1576550529219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
@@ -300,7 +29,7 @@
     <SUITE FILE_PATH="coverage/Palm_test$py_test_in_test013_MePage_information_language_py.coverage" NAME="py.test in test013_MePage_information_language.py Coverage Results" MODIFIED="1575365400657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
     <SUITE FILE_PATH="coverage/Palm_test$py_test_for_test012_MePage_information_input_Test_information_input_test_all_information_input.coverage" NAME="py.test for test012_MePage_information_input.Test_information_input.test_all_information_input Coverage Results" MODIFIED="1575359494095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
     <SUITE FILE_PATH="coverage/Palm_test$py_test_for_test014_career_tarot_Test_career_tarot.coverage" NAME="py.test for test014_career_tarot.Test_career_tarot Coverage Results" MODIFIED="1576475439501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
-    <SUITE FILE_PATH="coverage/Palm_test$py_test_in_test016_baby_face_py.coverage" NAME="py.test in test016_baby_face.py Coverage Results" MODIFIED="1576752084418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/Palm_test$py_test_in_test016_baby_face_py.coverage" NAME="py.test in test016_baby_face.py Coverage Results" MODIFIED="1577780946029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
     <SUITE FILE_PATH="coverage/Palm_test$py_test_for_test009_old_face_get_by_photo_Test_OldFaceGet_test_get_old_face_by_photo.coverage" NAME="py.test for test009_old_face_get_by_photo.Test_OldFaceGet.test_get_old_face_by_photo Coverage Results" MODIFIED="1576058774724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
     <SUITE FILE_PATH="coverage/Palm_test$py_test_for_test012_MePage_information_input_Test_information_input_test_no_information_Done_check.coverage" NAME="py.test for test012_MePage_information_input.Test_information_input.test_no_information_Done_check Coverage Results" MODIFIED="1575362713112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
     <SUITE FILE_PATH="coverage/Palm_test$py_test_for_test015_gender_change_Test_gender_change_test_get_gender_change.coverage" NAME="py.test for test015_gender_change.Test_gender_change.test_get_gender_change Coverage Results" MODIFIED="1576550288863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
@@ -317,11 +46,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="face_function.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/businessView/face_function.py">
+      <file leaf-file-name="tarot_function.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/businessView/tarot_function.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="295">
-              <caret line="311" column="40" selection-start-line="311" selection-start-column="40" selection-end-line="311" selection-end-column="40" />
+            <state relative-caret-position="7712">
+              <caret line="488" column="8" selection-start-line="488" selection-start-column="8" selection-end-line="488" selection-end-column="8" />
               <folding>
                 <element signature="e#0#46#0" expanded="true" />
               </folding>
@@ -329,13 +58,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="desired_caps.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/common/desired_caps.py">
+      <file leaf-file-name="me_view.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/businessView/me_view.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+            <state relative-caret-position="320">
+              <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="loginview.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/businessView/loginview.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2384">
+              <caret line="153" selection-start-line="153" selection-end-line="153" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="todayview.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/businessView/todayview.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1664">
+              <caret line="104" column="18" selection-start-line="104" selection-start-column="18" selection-end-line="104" selection-end-column="18" />
               <folding>
-                <element signature="e#0#28#0" expanded="true" />
+                <element signature="e#0#46#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -344,8 +91,8 @@
       <file leaf-file-name="homeview.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/businessView/homeview.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1258">
-              <caret line="77" column="17" selection-start-line="77" selection-start-column="17" selection-end-line="77" selection-end-column="17" />
+            <state relative-caret-position="480">
+              <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
               <folding>
                 <element signature="e#0#46#0" expanded="true" />
               </folding>
@@ -353,47 +100,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="baseView.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/baseView/baseView.py">
+      <file leaf-file-name="test003_constellation_match.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test_case/test003_constellation_match.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test016_baby_face.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_case/test016_baby_face.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="28" column="28" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="log.conf" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/log.conf">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test012_MePage_information_language.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_case/test012_MePage_information_language.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1088">
-              <caret line="69" column="79" selection-start-line="69" selection-start-column="79" selection-end-line="69" selection-end-column="79" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test015_gender_change.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_case/test015_gender_change.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="48" />
+            <state>
               <folding>
                 <element signature="e#0#34#0" expanded="true" />
               </folding>
@@ -401,25 +111,40 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tarot_function.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/businessView/tarot_function.py">
+      <file leaf-file-name="psychological_test_function.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/businessView/psychological_test_function.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="816">
-              <caret line="54" column="27" selection-start-line="54" selection-start-column="27" selection-end-line="54" selection-end-column="27" />
-              <folding>
-                <element signature="e#0#46#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="144">
+              <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="common_fun.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/common/common_fun.py">
+      <file leaf-file-name="test006_tarot_everyday.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_case/test006_tarot_everyday.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2737">
-              <caret line="167" column="16" selection-start-line="167" selection-start-column="16" selection-end-line="167" selection-end-column="16" />
+            <state relative-caret-position="272">
+              <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test010_today_page.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_case/test010_today_page.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test011_MePage_information_input.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_case/test011_MePage_information_input.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
               <folding>
-                <element signature="e#0#38#0" expanded="true" />
+                <element signature="e#0#43#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -485,12 +210,12 @@
         <option value="$PROJECT_DIR$/test_case/test014_career_tarot.py" />
         <option value="$PROJECT_DIR$/test_case/test015_search_love_tarot.py" />
         <option value="$PROJECT_DIR$/test_case/test015_gender_change.py" />
-        <option value="$PROJECT_DIR$/businessView/tarot_function.py" />
         <option value="$PROJECT_DIR$/test_case/test016_baby_face.py" />
         <option value="$PROJECT_DIR$/config/log.conf" />
         <option value="$PROJECT_DIR$/common/desired_caps.py" />
         <option value="$PROJECT_DIR$/common/common_fun.py" />
         <option value="$PROJECT_DIR$/businessView/face_function.py" />
+        <option value="$PROJECT_DIR$/businessView/tarot_function.py" />
       </list>
     </option>
   </component>
@@ -504,10 +229,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="46" />
+    <option name="x" value="31" />
     <option name="y" value="23" />
-    <option name="width" value="1234" />
-    <option name="height" value="777" />
+    <option name="width" value="1649" />
+    <option name="height" value="1027" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -553,11 +278,6 @@
             <path>
               <item name="Palm_test" type="b2602c69:ProjectViewProjectNode" />
               <item name="Palm_test" type="462c0819:PsiDirectoryNode" />
-              <item name="reports" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Palm_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Palm_test" type="462c0819:PsiDirectoryNode" />
               <item name="test_case" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -570,7 +290,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -592,7 +312,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.py.test in test016_baby_face.py">
+  <component name="RunManager" selected="Python tests.py.test for test016_baby_face.Test_Baby_face.test_get_baby_result">
     <configuration name="py.test for test015_gender_change.Test_gender_change.test_get_gender_change" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="Palm_test" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -608,7 +328,7 @@
       <option name="_new_target" value="&quot;test015_gender_change.Test_gender_change.test_get_gender_change&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
-    <configuration name="py.test in test013_career_tarot.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="py.test for test016_baby_face.Test_Baby_face.test_get_baby_result" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="Palm_test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -620,8 +340,8 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_case/test013_career_tarot.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="_new_target" value="&quot;test016_baby_face.Test_Baby_face.test_get_baby_result&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
     <configuration name="py.test in test014_search_love_tarot.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="Palm_test" />
@@ -685,19 +405,19 @@
     </configuration>
     <list>
       <item itemvalue="Python tests.pytest" />
-      <item itemvalue="Python tests.py.test in test013_career_tarot.py" />
       <item itemvalue="Python tests.py.test in test014_search_love_tarot.py" />
       <item itemvalue="Python tests.py.test in test015_gender_change.py" />
       <item itemvalue="Python tests.py.test for test015_gender_change.Test_gender_change.test_get_gender_change" />
       <item itemvalue="Python tests.py.test in test016_baby_face.py" />
+      <item itemvalue="Python tests.py.test for test016_baby_face.Test_Baby_face.test_get_baby_result" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.py.test for test016_baby_face.Test_Baby_face.test_get_baby_result" />
         <item itemvalue="Python tests.py.test in test016_baby_face.py" />
         <item itemvalue="Python tests.py.test in test015_gender_change.py" />
         <item itemvalue="Python tests.py.test for test015_gender_change.Test_gender_change.test_get_gender_change" />
         <item itemvalue="Python tests.py.test in test014_search_love_tarot.py" />
-        <item itemvalue="Python tests.py.test in test013_career_tarot.py" />
       </list>
     </recent_temporary>
   </component>
@@ -723,12 +443,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="py_test_in_test014_career_tarot_py - 2019.12.16 at 14h 15m 11s.xml">
-      <configuration name="py.test in test014_career_tarot.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_in_test015_search_love_tarot_py - 2019.12.16 at 14h 46m 12s.xml">
-      <configuration name="py.test in test015_search_love_tarot.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="py_test_in_test015_gender_change_py - 2019.12.17 at 10h 35m 49s.xml">
       <configuration name="py.test in test015_gender_change.py" configurationId="tests" />
     </history-entry>
@@ -753,25 +467,30 @@
     <history-entry file="py_test_in_test016_baby_face_py - 2019.12.19 at 18h 50m 39s.xml">
       <configuration name="py.test in test016_baby_face.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="py_test_in_test016_baby_face_py - 2019.12.31 at 16h 43m 15s.xml">
+      <configuration name="py.test in test016_baby_face.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_test016_baby_face_Test_Baby_face_test_get_baby_result - 2019.12.31 at 16h 47m 28s.xml">
+      <configuration name="py.test for test016_baby_face.Test_Baby_face.test_get_baby_result" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="46" y="23" width="1234" height="777" extended-state="0" />
-    <editor active="true" />
+    <frame x="31" y="23" width="1649" height="1027" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.30735293" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30735293" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.2632353" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4985294" visible="true" weight="0.29278523" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4985294" visible="true" weight="0.19166148" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" sideWeight="0.50147057" side_tool="true" weight="0.24580537" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="SVN Repositories" order="7" weight="0.32941177" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -821,12 +540,12 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/common/common_fun.py">
+    <entry file="file://$PROJECT_DIR$/businessView/homeview.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2771">
-          <caret line="169" column="20" selection-start-line="169" selection-start-column="20" selection-end-line="169" selection-end-column="20" />
+        <state relative-caret-position="480">
+          <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
           <folding>
-            <element signature="e#0#38#0" expanded="true" />
+            <element signature="e#0#46#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -937,20 +656,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/businessView/loginview.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2601">
-          <caret line="153" selection-start-line="153" selection-end-line="153" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_case/test004_constellation_enter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="49" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test_case/test005_constellation_everyday.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
@@ -965,45 +670,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_case/test003_constellation_match.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="599">
-          <caret line="103" column="59" selection-start-line="103" selection-start-column="59" selection-end-line="103" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_case/test001_homepage_enter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/businessView/me_view.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_case/test011_MePage_information_input.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="50" column="75" selection-start-line="73" selection-start-column="4" selection-end-line="73" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/businessView/Constellation_function.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3038">
           <caret line="680" column="32" selection-start-line="680" selection-start-column="32" selection-end-line="680" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/businessView/todayview.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1666">
-          <caret line="104" column="18" selection-start-line="104" selection-start-column="18" selection-end-line="104" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -1028,21 +698,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_case/test006_tarot_everyday.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test_case/test014_career_tarot.ipynb" />
-    <entry file="file://$PROJECT_DIR$/test_case/test010_today_page.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test_case/test013_career_tarot.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -1051,11 +707,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test_case/test003_information_input.py" />
-    <entry file="file://$PROJECT_DIR$/test_case/test002_palm_judge.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-455" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test_case/test009_psychological.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1070">
@@ -1077,44 +728,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/businessView/psychological_test_function.py">
+    <entry file="file://$PROJECT_DIR$/common/desired_caps.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_case/test008_old_face_get_by_photo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="49" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/businessView/tarot_function.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="54" column="27" selection-start-line="54" selection-start-column="27" selection-end-line="54" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#46#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/businessView/homeview.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1258">
-          <caret line="77" column="17" selection-start-line="77" selection-start-column="17" selection-end-line="77" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#46#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/baseView/baseView.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="119">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -1125,56 +742,159 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/common/desired_caps.py">
+    <entry file="file://$PROJECT_DIR$/test_case/test015_gender_change.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="85">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_case/test016_baby_face.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_case/test012_MePage_information_language.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1024">
+          <caret line="69" column="79" selection-start-line="69" selection-start-column="79" selection-end-line="69" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baseView/baseView.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/businessView/face_function.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="253" column="8" selection-start-line="253" selection-start-column="8" selection-end-line="253" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/common/common_fun.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2737">
-          <caret line="167" column="16" selection-start-line="167" selection-start-column="16" selection-end-line="167" selection-end-column="16" />
+        <state relative-caret-position="96">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
           <folding>
             <element signature="e#0#38#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_case/test015_gender_change.py">
+    <entry file="file://$PROJECT_DIR$/test_case/test002_palm_judge.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="48" />
+        <state relative-caret-position="48">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_case/test001_homepage_enter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_case/test004_constellation_enter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="8" column="49" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_case/test008_old_face_get_by_photo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="9" column="49" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_case/test010_today_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_case/test011_MePage_information_input.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
           <folding>
-            <element signature="e#0#34#0" expanded="true" />
+            <element signature="e#0#43#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_case/test012_MePage_information_language.py">
+    <entry file="file://$PROJECT_DIR$/test_case/test006_tarot_everyday.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1088">
-          <caret line="69" column="79" selection-start-line="69" selection-start-column="79" selection-end-line="69" selection-end-column="79" />
+        <state relative-caret-position="272">
+          <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_case/test016_baby_face.py">
+    <entry file="file://$PROJECT_DIR$/businessView/homeview.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="28" column="28" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/businessView/face_function.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="311" column="40" selection-start-line="311" selection-start-column="40" selection-end-line="311" selection-end-column="40" />
+        <state relative-caret-position="480">
+          <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
           <folding>
             <element signature="e#0#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/businessView/psychological_test_function.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/businessView/me_view.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/businessView/loginview.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2384">
+          <caret line="153" selection-start-line="153" selection-end-line="153" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/businessView/tarot_function.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7712">
+          <caret line="488" column="8" selection-start-line="488" selection-start-column="8" selection-end-line="488" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/businessView/todayview.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1664">
+          <caret line="104" column="18" selection-start-line="104" selection-start-column="18" selection-end-line="104" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_case/test003_constellation_match.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
           </folding>
         </state>
       </provider>
